@@ -1,0 +1,47 @@
+name,price,rating,reviews_count,source,brand,type,packaging,price_tier
+[SAMPLE] Nescafe Classic Instant Coffee 200g,950.0,0,0,alfatah.com.pk,Nescafe,instant,"{'value': 200.0, 'unit': 'g', 'display': '200g'}",low
+[SAMPLE] Nescafe Gold Blend Premium Coffee 100g Jar,1250.0,0,0,alfatah.com.pk,Nescafe,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+[SAMPLE] Davidoff Rich Aroma Ground Coffee 250g,2350.0,0,0,alfatah.com.pk,Davidoff,ground,"{'value': 250.0, 'unit': 'g', 'display': '250g'}",mid
+[SAMPLE] Lavazza Qualita Oro Ground Coffee 250g,2100.0,0,0,alfatah.com.pk,Lavazza,ground,"{'value': 250.0, 'unit': 'g', 'display': '250g'}",mid
+[SAMPLE] Maxwell House Original Roast Ground Coffee 300g,1800.0,0,0,alfatah.com.pk,Maxwell House,ground,"{'value': 300.0, 'unit': 'g', 'display': '300g'}",mid
+[SAMPLE] Mehran Instant Coffee Powder 50g,450.0,0,0,alfatah.com.pk,Mehran,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+[SAMPLE] Nescafe 3 in 1 Instant Coffee Mix 30 Sticks,850.0,0,0,alfatah.com.pk,Nescafe,instant,"{'value': 30.0, 'unit': 'count', 'display': '30count'}",low
+[SAMPLE] Folgers Classic Roast Ground Coffee 226g,1550.0,0,0,alfatah.com.pk,Folgers,ground,"{'value': 226.0, 'unit': 'g', 'display': '226g'}",mid
+[SAMPLE] Continental Premium Blend Coffee Powder 100g,750.0,0,0,alfatah.com.pk,Continental,powdered,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",low
+[SAMPLE] Kauphy Italian Roast Coffee Beans 250g,1950.0,0,0,alfatah.com.pk,Kauphy,beans,"{'value': 250.0, 'unit': 'g', 'display': '250g'}",mid
+Unknown,60.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,150.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,110.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,999.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,85.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,85.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,1900.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",mid
+Unknown,25.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,25.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,110.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,375.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,3500.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",premium
+Unknown,100.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,2499.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",mid
+Unknown,620.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,180.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,1000.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,160.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,1650.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",mid
+Unknown,2499.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",mid
+Unknown,580.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,160.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,0.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,1150.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",mid
+Unknown,900.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,1700.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",mid
+Unknown,2950.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",premium
+Unknown,0.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,2900.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",premium
+Unknown,1025.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",mid
+Unknown,2150.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",mid
+Unknown,2265.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",mid
+Unknown,2150.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",mid
+Unknown,650.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,520.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,650.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low

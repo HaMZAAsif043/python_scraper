@@ -1,0 +1,665 @@
+{
+  "products": [
+    {
+      "name": "Nescafe Classic Instant Coffee 200g",
+      "price": 950,
+      "rating": 4.5,
+      "reviews_count": 120,
+      "source": "sample_data",
+      "brand": "Nescafe",
+      "type": "instant",
+      "packaging": {
+        "value": 200,
+        "unit": "g",
+        "display": "200g"
+      },
+      "price_tier": "low"
+    },
+    {
+      "name": "Nescafe Gold Blend Premium Coffee 100g Jar",
+      "price": 1250,
+      "rating": 4.7,
+      "reviews_count": 85,
+      "source": "sample_data",
+      "brand": "Nescafe",
+      "type": "instant",
+      "packaging": {
+        "value": 100,
+        "unit": "g",
+        "display": "100g"
+      },
+      "price_tier": "mid"
+    },
+    {
+      "name": "Davidoff Rich Aroma Ground Coffee 250g",
+      "price": 2350,
+      "rating": 4.8,
+      "reviews_count": 42,
+      "source": "sample_data",
+      "brand": "Davidoff",
+      "type": "ground",
+      "packaging": {
+        "value": 250,
+        "unit": "g",
+        "display": "250g"
+      },
+      "price_tier": "mid"
+    },
+    {
+      "name": "Lavazza Qualita Oro Ground Coffee 250g",
+      "price": 2100,
+      "rating": 4.6,
+      "reviews_count": 38,
+      "source": "sample_data",
+      "brand": "Lavazza",
+      "type": "ground",
+      "packaging": {
+        "value": 250,
+        "unit": "g",
+        "display": "250g"
+      },
+      "price_tier": "mid"
+    },
+    {
+      "name": "Maxwell House Original Roast Ground Coffee 300g",
+      "price": 1800,
+      "rating": 4.2,
+      "reviews_count": 29,
+      "source": "sample_data",
+      "brand": "Maxwell House",
+      "type": "ground",
+      "packaging": {
+        "value": 300,
+        "unit": "g",
+        "display": "300g"
+      },
+      "price_tier": "mid"
+    },
+    {
+      "name": "Mehran Instant Coffee Powder 50g",
+      "price": 450,
+      "rating": 3.9,
+      "reviews_count": 65,
+      "source": "sample_data",
+      "brand": "Mehran",
+      "type": "powdered",
+      "packaging": {
+        "value": 50,
+        "unit": "g",
+        "display": "50g"
+      },
+      "price_tier": "low"
+    },
+    {
+      "name": "Nescafe 3 in 1 Instant Coffee Mix 30 Sticks",
+      "price": 850,
+      "rating": 4.4,
+      "reviews_count": 95,
+      "source": "sample_data",
+      "brand": "Nescafe",
+      "type": "coffee mix",
+      "packaging": {
+        "value": 30,
+        "unit": "count",
+        "display": "30count"
+      },
+      "price_tier": "low"
+    },
+    {
+      "name": "Folgers Classic Roast Ground Coffee 226g",
+      "price": 1550,
+      "rating": 4.3,
+      "reviews_count": 22,
+      "source": "sample_data",
+      "brand": "Folgers",
+      "type": "ground",
+      "packaging": {
+        "value": 226,
+        "unit": "g",
+        "display": "226g"
+      },
+      "price_tier": "mid"
+    },
+    {
+      "name": "Continental Premium Blend Coffee Powder 100g",
+      "price": 750,
+      "rating": 4.0,
+      "reviews_count": 48,
+      "source": "sample_data",
+      "brand": "Continental",
+      "type": "powdered",
+      "packaging": {
+        "value": 100,
+        "unit": "g",
+        "display": "100g"
+      },
+      "price_tier": "low"
+    },
+    {
+      "name": "Kauphy Italian Roast Coffee Beans 250g",
+      "price": 1950,
+      "rating": 4.8,
+      "reviews_count": 15,
+      "source": "sample_data",
+      "brand": "Kauphy",
+      "type": "beans",
+      "packaging": {
+        "value": 250,
+        "unit": "g",
+        "display": "250g"
+      },
+      "price_tier": "mid"
+    },
+    {
+      "name": "Lavazza Super Crema Espresso Coffee Beans 1kg",
+      "price": 4200,
+      "rating": 4.9,
+      "reviews_count": 28,
+      "source": "sample_data",
+      "brand": "Lavazza",
+      "type": "beans",
+      "packaging": {
+        "value": 1000,
+        "unit": "g",
+        "display": "1000g"
+      },
+      "price_tier": "premium"
+    },
+    {
+      "name": "Nescafe Tasters Choice Instant Coffee 200g",
+      "price": 1100,
+      "rating": 4.2,
+      "reviews_count": 56,
+      "source": "sample_data",
+      "brand": "Nescafe",
+      "type": "instant",
+      "packaging": {
+        "value": 200,
+        "unit": "g",
+        "display": "200g"
+      },
+      "price_tier": "mid"
+    },
+    {
+      "name": "Illy Classico Medium Roast Ground Coffee 250g",
+      "price": 2800,
+      "rating": 4.7,
+      "reviews_count": 33,
+      "source": "sample_data",
+      "brand": "Illy",
+      "type": "ground",
+      "packaging": {
+        "value": 250,
+        "unit": "g",
+        "display": "250g"
+      },
+      "price_tier": "premium"
+    },
+    {
+      "name": "Tapal Premium Danedar Tea 900g",
+      "price": 1350,
+      "rating": 4.4,
+      "reviews_count": 112,
+      "source": "sample_data",
+      "brand": "Tapal",
+      "type": "tea",
+      "packaging": {
+        "value": 900,
+        "unit": "g",
+        "display": "900g"
+      },
+      "price_tier": "mid"
+    },
+    {
+      "name": "Jacobs Kronung Ground Coffee 250g",
+      "price": 1700,
+      "rating": 4.5,
+      "reviews_count": 27,
+      "source": "sample_data",
+      "brand": "Jacobs",
+      "type": "ground",
+      "packaging": {
+        "value": 250,
+        "unit": "g",
+        "display": "250g"
+      },
+      "price_tier": "mid"
+    }
+  ],
+  "brands": {
+    "Nescafe": {
+      "count": 4,
+      "avg_price": 1037.5,
+      "total_price": 4150,
+      "types": [
+        "instant",
+        "coffee mix"
+      ]
+    },
+    "Davidoff": {
+      "count": 1,
+      "avg_price": 2350.0,
+      "total_price": 2350,
+      "types": [
+        "ground"
+      ]
+    },
+    "Lavazza": {
+      "count": 2,
+      "avg_price": 3150.0,
+      "total_price": 6300,
+      "types": [
+        "ground",
+        "beans"
+      ]
+    },
+    "Maxwell House": {
+      "count": 1,
+      "avg_price": 1800.0,
+      "total_price": 1800,
+      "types": [
+        "ground"
+      ]
+    },
+    "Mehran": {
+      "count": 1,
+      "avg_price": 450.0,
+      "total_price": 450,
+      "types": [
+        "powdered"
+      ]
+    },
+    "Folgers": {
+      "count": 1,
+      "avg_price": 1550.0,
+      "total_price": 1550,
+      "types": [
+        "ground"
+      ]
+    },
+    "Continental": {
+      "count": 1,
+      "avg_price": 750.0,
+      "total_price": 750,
+      "types": [
+        "powdered"
+      ]
+    },
+    "Kauphy": {
+      "count": 1,
+      "avg_price": 1950.0,
+      "total_price": 1950,
+      "types": [
+        "beans"
+      ]
+    },
+    "Illy": {
+      "count": 1,
+      "avg_price": 2800.0,
+      "total_price": 2800,
+      "types": [
+        "ground"
+      ]
+    },
+    "Tapal": {
+      "count": 1,
+      "avg_price": 1350.0,
+      "total_price": 1350,
+      "types": [
+        "tea"
+      ]
+    },
+    "Jacobs": {
+      "count": 1,
+      "avg_price": 1700.0,
+      "total_price": 1700,
+      "types": [
+        "ground"
+      ]
+    }
+  },
+  "types": {
+    "instant": {
+      "count": 3,
+      "avg_price": 1100.0,
+      "total_price": 3300,
+      "brands": [
+        "Nescafe"
+      ]
+    },
+    "ground": {
+      "count": 6,
+      "avg_price": 2050.0,
+      "total_price": 12300,
+      "brands": [
+        "Davidoff",
+        "Folgers",
+        "Lavazza",
+        "Jacobs",
+        "Illy",
+        "Maxwell House"
+      ]
+    },
+    "powdered": {
+      "count": 2,
+      "avg_price": 600.0,
+      "total_price": 1200,
+      "brands": [
+        "Mehran",
+        "Continental"
+      ]
+    },
+    "coffee mix": {
+      "count": 1,
+      "avg_price": 850.0,
+      "total_price": 850,
+      "brands": [
+        "Nescafe"
+      ]
+    },
+    "beans": {
+      "count": 2,
+      "avg_price": 3075.0,
+      "total_price": 6150,
+      "brands": [
+        "Lavazza",
+        "Kauphy"
+      ]
+    },
+    "tea": {
+      "count": 1,
+      "avg_price": 1350.0,
+      "total_price": 1350,
+      "brands": [
+        "Tapal"
+      ]
+    }
+  },
+  "packaging": {
+    "200g": {
+      "count": 2,
+      "avg_price": 1025.0,
+      "total_price": 2050
+    },
+    "100g": {
+      "count": 2,
+      "avg_price": 1000.0,
+      "total_price": 2000
+    },
+    "250g": {
+      "count": 5,
+      "avg_price": 2180.0,
+      "total_price": 10900
+    },
+    "300g": {
+      "count": 1,
+      "avg_price": 1800.0,
+      "total_price": 1800
+    },
+    "50g": {
+      "count": 1,
+      "avg_price": 450.0,
+      "total_price": 450
+    },
+    "30count": {
+      "count": 1,
+      "avg_price": 850.0,
+      "total_price": 850
+    },
+    "226g": {
+      "count": 1,
+      "avg_price": 1550.0,
+      "total_price": 1550
+    },
+    "1000g": {
+      "count": 1,
+      "avg_price": 4200.0,
+      "total_price": 4200
+    },
+    "900g": {
+      "count": 1,
+      "avg_price": 1350.0,
+      "total_price": 1350
+    }
+  },
+  "price_tiers": {
+    "low": [
+      {
+        "name": "Nescafe Classic Instant Coffee 200g",
+        "price": 950,
+        "rating": 4.5,
+        "reviews_count": 120,
+        "source": "sample_data",
+        "brand": "Nescafe",
+        "type": "instant",
+        "packaging": {
+          "value": 200,
+          "unit": "g",
+          "display": "200g"
+        },
+        "price_tier": "low"
+      },
+      {
+        "name": "Mehran Instant Coffee Powder 50g",
+        "price": 450,
+        "rating": 3.9,
+        "reviews_count": 65,
+        "source": "sample_data",
+        "brand": "Mehran",
+        "type": "powdered",
+        "packaging": {
+          "value": 50,
+          "unit": "g",
+          "display": "50g"
+        },
+        "price_tier": "low"
+      },
+      {
+        "name": "Nescafe 3 in 1 Instant Coffee Mix 30 Sticks",
+        "price": 850,
+        "rating": 4.4,
+        "reviews_count": 95,
+        "source": "sample_data",
+        "brand": "Nescafe",
+        "type": "coffee mix",
+        "packaging": {
+          "value": 30,
+          "unit": "count",
+          "display": "30count"
+        },
+        "price_tier": "low"
+      },
+      {
+        "name": "Continental Premium Blend Coffee Powder 100g",
+        "price": 750,
+        "rating": 4.0,
+        "reviews_count": 48,
+        "source": "sample_data",
+        "brand": "Continental",
+        "type": "powdered",
+        "packaging": {
+          "value": 100,
+          "unit": "g",
+          "display": "100g"
+        },
+        "price_tier": "low"
+      }
+    ],
+    "mid": [
+      {
+        "name": "Nescafe Gold Blend Premium Coffee 100g Jar",
+        "price": 1250,
+        "rating": 4.7,
+        "reviews_count": 85,
+        "source": "sample_data",
+        "brand": "Nescafe",
+        "type": "instant",
+        "packaging": {
+          "value": 100,
+          "unit": "g",
+          "display": "100g"
+        },
+        "price_tier": "mid"
+      },
+      {
+        "name": "Davidoff Rich Aroma Ground Coffee 250g",
+        "price": 2350,
+        "rating": 4.8,
+        "reviews_count": 42,
+        "source": "sample_data",
+        "brand": "Davidoff",
+        "type": "ground",
+        "packaging": {
+          "value": 250,
+          "unit": "g",
+          "display": "250g"
+        },
+        "price_tier": "mid"
+      },
+      {
+        "name": "Lavazza Qualita Oro Ground Coffee 250g",
+        "price": 2100,
+        "rating": 4.6,
+        "reviews_count": 38,
+        "source": "sample_data",
+        "brand": "Lavazza",
+        "type": "ground",
+        "packaging": {
+          "value": 250,
+          "unit": "g",
+          "display": "250g"
+        },
+        "price_tier": "mid"
+      },
+      {
+        "name": "Maxwell House Original Roast Ground Coffee 300g",
+        "price": 1800,
+        "rating": 4.2,
+        "reviews_count": 29,
+        "source": "sample_data",
+        "brand": "Maxwell House",
+        "type": "ground",
+        "packaging": {
+          "value": 300,
+          "unit": "g",
+          "display": "300g"
+        },
+        "price_tier": "mid"
+      },
+      {
+        "name": "Folgers Classic Roast Ground Coffee 226g",
+        "price": 1550,
+        "rating": 4.3,
+        "reviews_count": 22,
+        "source": "sample_data",
+        "brand": "Folgers",
+        "type": "ground",
+        "packaging": {
+          "value": 226,
+          "unit": "g",
+          "display": "226g"
+        },
+        "price_tier": "mid"
+      },
+      {
+        "name": "Kauphy Italian Roast Coffee Beans 250g",
+        "price": 1950,
+        "rating": 4.8,
+        "reviews_count": 15,
+        "source": "sample_data",
+        "brand": "Kauphy",
+        "type": "beans",
+        "packaging": {
+          "value": 250,
+          "unit": "g",
+          "display": "250g"
+        },
+        "price_tier": "mid"
+      },
+      {
+        "name": "Nescafe Tasters Choice Instant Coffee 200g",
+        "price": 1100,
+        "rating": 4.2,
+        "reviews_count": 56,
+        "source": "sample_data",
+        "brand": "Nescafe",
+        "type": "instant",
+        "packaging": {
+          "value": 200,
+          "unit": "g",
+          "display": "200g"
+        },
+        "price_tier": "mid"
+      },
+      {
+        "name": "Tapal Premium Danedar Tea 900g",
+        "price": 1350,
+        "rating": 4.4,
+        "reviews_count": 112,
+        "source": "sample_data",
+        "brand": "Tapal",
+        "type": "tea",
+        "packaging": {
+          "value": 900,
+          "unit": "g",
+          "display": "900g"
+        },
+        "price_tier": "mid"
+      },
+      {
+        "name": "Jacobs Kronung Ground Coffee 250g",
+        "price": 1700,
+        "rating": 4.5,
+        "reviews_count": 27,
+        "source": "sample_data",
+        "brand": "Jacobs",
+        "type": "ground",
+        "packaging": {
+          "value": 250,
+          "unit": "g",
+          "display": "250g"
+        },
+        "price_tier": "mid"
+      }
+    ],
+    "premium": [
+      {
+        "name": "Lavazza Super Crema Espresso Coffee Beans 1kg",
+        "price": 4200,
+        "rating": 4.9,
+        "reviews_count": 28,
+        "source": "sample_data",
+        "brand": "Lavazza",
+        "type": "beans",
+        "packaging": {
+          "value": 1000,
+          "unit": "g",
+          "display": "1000g"
+        },
+        "price_tier": "premium"
+      },
+      {
+        "name": "Illy Classico Medium Roast Ground Coffee 250g",
+        "price": 2800,
+        "rating": 4.7,
+        "reviews_count": 33,
+        "source": "sample_data",
+        "brand": "Illy",
+        "type": "ground",
+        "packaging": {
+          "value": 250,
+          "unit": "g",
+          "display": "250g"
+        },
+        "price_tier": "premium"
+      }
+    ]
+  },
+  "metadata": {
+    "collection_time": "2025-05-11T10:36:11.790090",
+    "data_source": "sample_generation",
+    "total_products": 15,
+    "total_brands": 11,
+    "note": "This data was generated as sample data because website scraping failed. It can be used for testing and demonstration purposes."
+  }
+}

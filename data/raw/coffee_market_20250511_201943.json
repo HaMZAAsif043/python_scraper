@@ -1,0 +1,2777 @@
+[
+  {
+    "name": "Unknown",
+    "price": 0.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "daraz.pk",
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 0.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "daraz.pk",
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 0.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "daraz.pk",
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 0.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "daraz.pk",
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 0.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "daraz.pk",
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe 3in1 Coffee, 20g",
+    "price": 60.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 20.0,
+      "unit": "g",
+      "display": "20g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Gold Cappuccino Coffee, 15.5g",
+    "price": 150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Latte Coffee Drink, 200ml",
+    "price": 110.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "ml",
+      "display": "200ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 50g",
+    "price": 999.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Instant Coffee Choco Hazelnut Ice, 25g",
+    "price": 85.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 25.0,
+      "unit": "g",
+      "display": "25g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe 3-In-1 Salted Caramel Ice Coffee Sachet, 23g",
+    "price": 85.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 23.0,
+      "unit": "g",
+      "display": "23g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 100g",
+    "price": 1900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nescafe Classic Instant Coffee Sachet, 1.5g",
+    "price": 25.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Blend Coffee Sachet, 1.5g",
+    "price": 25.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Mocha Coffee Drink, 200ml",
+    "price": 110.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "ml",
+      "display": "200ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Kopiko Coffee Candy, 140g, Pouch",
+    "price": 375.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 140.0,
+      "unit": "g",
+      "display": "140g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 200g",
+    "price": 3500.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "g",
+      "display": "200g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Tapal Insta Brew 3-In-1 Instant Coffee, 1 Count, 25g",
+    "price": 100.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Tapal",
+    "type": "instant",
+    "packaging": {
+      "value": 25.0,
+      "unit": "g",
+      "display": "25g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Davidoff Rich Aroma Instant Coffee, 100g",
+    "price": 2499.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Davidoff",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Bombay Fresh Bakers Coffee Cake, 1 Pound",
+    "price": 620.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Reload Coffee & Almond Granola Bars, High Fiber & Protein, Gluten Free, 40g",
+    "price": 180.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 40.0,
+      "unit": "g",
+      "display": "40g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "St. Ives Energizing Coconut & Coffee Scrub, Tube, Paraben & Oil Free, 170g",
+    "price": 1000.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 170.0,
+      "unit": "g",
+      "display": "170g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Hazelnut Coffee Drink, 220ml Pet Bottle",
+    "price": 160.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Gold Coffee, 95g Imported",
+    "price": 1650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 95.0,
+      "unit": "g",
+      "display": "95g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Davidoff Fine Aroma Instant Coffee, 100g",
+    "price": 2499.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Davidoff",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee Pouch, 50g",
+    "price": 580.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Salted Caramel Coffee Drink, 220ml Pet Bottle",
+    "price": 160.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Garnier Color Naturals Creme Hair Colour, 5 1/2 Creamy Coffee",
+    "price": 0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Coffee Mate Coffee Creamer 400g",
+    "price": 1150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nestle",
+    "type": "instant",
+    "packaging": {
+      "value": 400.0,
+      "unit": "g",
+      "display": "400g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 50g",
+    "price": 900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 100g",
+    "price": 1700.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nestle Nescafe Gold Blend Coffee, 190g",
+    "price": 2950.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 190.0,
+      "unit": "g",
+      "display": "190g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Laikou Coffee Exfoliating Body Scrub, 350g, LK83656A",
+    "price": 0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 350.0,
+      "unit": "g",
+      "display": "350g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 200g",
+    "price": 2900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 200.0,
+      "unit": "g",
+      "display": "200g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Nestle Nescafe Gold Coffee, 47.5g (Imported)",
+    "price": 1025.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Intense Coffee, 100g",
+    "price": 2150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Decaf 100% Arabica Coffee, 100g",
+    "price": 2265.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Original 100% Arabica Coffee, 100g",
+    "price": 2150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Private Club Hazelnut Coffee, 50g",
+    "price": 650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Pie In The Sky Coffee Biscuits, 16-Pack",
+    "price": 520.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Private Club Caramel Coffee, 50g",
+    "price": 650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe 3in1 Coffee, 20g",
+    "price": 60.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 20.0,
+      "unit": "g",
+      "display": "20g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Gold Cappuccino Coffee, 15.5g",
+    "price": 150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Latte Coffee Drink, 200ml",
+    "price": 110.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "ml",
+      "display": "200ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 50g",
+    "price": 999.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Instant Coffee Choco Hazelnut Ice, 25g",
+    "price": 85.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 25.0,
+      "unit": "g",
+      "display": "25g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe 3-In-1 Salted Caramel Ice Coffee Sachet, 23g",
+    "price": 85.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 23.0,
+      "unit": "g",
+      "display": "23g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 100g",
+    "price": 1900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nescafe Classic Instant Coffee Sachet, 1.5g",
+    "price": 25.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Blend Coffee Sachet, 1.5g",
+    "price": 25.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Mocha Coffee Drink, 200ml",
+    "price": 110.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "ml",
+      "display": "200ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Kopiko Coffee Candy, 140g, Pouch",
+    "price": 375.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 140.0,
+      "unit": "g",
+      "display": "140g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 200g",
+    "price": 3500.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "g",
+      "display": "200g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Tapal Insta Brew 3-In-1 Instant Coffee, 1 Count, 25g",
+    "price": 100.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Tapal",
+    "type": "instant",
+    "packaging": {
+      "value": 25.0,
+      "unit": "g",
+      "display": "25g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Davidoff Rich Aroma Instant Coffee, 100g",
+    "price": 2499.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Davidoff",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Bombay Fresh Bakers Coffee Cake, 1 Pound",
+    "price": 620.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Reload Coffee & Almond Granola Bars, High Fiber & Protein, Gluten Free, 40g",
+    "price": 180.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 40.0,
+      "unit": "g",
+      "display": "40g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "St. Ives Energizing Coconut & Coffee Scrub, Tube, Paraben & Oil Free, 170g",
+    "price": 1000.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 170.0,
+      "unit": "g",
+      "display": "170g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Hazelnut Coffee Drink, 220ml Pet Bottle",
+    "price": 160.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Gold Coffee, 95g Imported",
+    "price": 1650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 95.0,
+      "unit": "g",
+      "display": "95g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Davidoff Fine Aroma Instant Coffee, 100g",
+    "price": 2499.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Davidoff",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee Pouch, 50g",
+    "price": 580.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Salted Caramel Coffee Drink, 220ml Pet Bottle",
+    "price": 160.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Garnier Color Naturals Creme Hair Colour, 5 1/2 Creamy Coffee",
+    "price": 0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Coffee Mate Coffee Creamer 400g",
+    "price": 1150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nestle",
+    "type": "instant",
+    "packaging": {
+      "value": 400.0,
+      "unit": "g",
+      "display": "400g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 50g",
+    "price": 900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 100g",
+    "price": 1700.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nestle Nescafe Gold Blend Coffee, 190g",
+    "price": 2950.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 190.0,
+      "unit": "g",
+      "display": "190g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Laikou Coffee Exfoliating Body Scrub, 350g, LK83656A",
+    "price": 0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 350.0,
+      "unit": "g",
+      "display": "350g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 200g",
+    "price": 2900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 200.0,
+      "unit": "g",
+      "display": "200g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Nestle Nescafe Gold Coffee, 47.5g (Imported)",
+    "price": 1025.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Intense Coffee, 100g",
+    "price": 2150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Decaf 100% Arabica Coffee, 100g",
+    "price": 2265.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Original 100% Arabica Coffee, 100g",
+    "price": 2150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Private Club Hazelnut Coffee, 50g",
+    "price": 650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Pie In The Sky Coffee Biscuits, 16-Pack",
+    "price": 520.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Private Club Caramel Coffee, 50g",
+    "price": 650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe 3in1 Coffee, 20g",
+    "price": 60.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 20.0,
+      "unit": "g",
+      "display": "20g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Gold Cappuccino Coffee, 15.5g",
+    "price": 150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Latte Coffee Drink, 200ml",
+    "price": 110.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "ml",
+      "display": "200ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 50g",
+    "price": 999.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Instant Coffee Choco Hazelnut Ice, 25g",
+    "price": 85.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 25.0,
+      "unit": "g",
+      "display": "25g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe 3-In-1 Salted Caramel Ice Coffee Sachet, 23g",
+    "price": 85.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 23.0,
+      "unit": "g",
+      "display": "23g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 100g",
+    "price": 1900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nescafe Classic Instant Coffee Sachet, 1.5g",
+    "price": 25.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Blend Coffee Sachet, 1.5g",
+    "price": 25.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Mocha Coffee Drink, 200ml",
+    "price": 110.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "ml",
+      "display": "200ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Kopiko Coffee Candy, 140g, Pouch",
+    "price": 375.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 140.0,
+      "unit": "g",
+      "display": "140g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 200g",
+    "price": 3500.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "g",
+      "display": "200g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Tapal Insta Brew 3-In-1 Instant Coffee, 1 Count, 25g",
+    "price": 100.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Tapal",
+    "type": "instant",
+    "packaging": {
+      "value": 25.0,
+      "unit": "g",
+      "display": "25g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Davidoff Rich Aroma Instant Coffee, 100g",
+    "price": 2499.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Davidoff",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Bombay Fresh Bakers Coffee Cake, 1 Pound",
+    "price": 620.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Reload Coffee & Almond Granola Bars, High Fiber & Protein, Gluten Free, 40g",
+    "price": 180.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 40.0,
+      "unit": "g",
+      "display": "40g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "St. Ives Energizing Coconut & Coffee Scrub, Tube, Paraben & Oil Free, 170g",
+    "price": 1000.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 170.0,
+      "unit": "g",
+      "display": "170g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Hazelnut Coffee Drink, 220ml Pet Bottle",
+    "price": 160.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Gold Coffee, 95g Imported",
+    "price": 1650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 95.0,
+      "unit": "g",
+      "display": "95g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Davidoff Fine Aroma Instant Coffee, 100g",
+    "price": 2499.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Davidoff",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee Pouch, 50g",
+    "price": 580.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Salted Caramel Coffee Drink, 220ml Pet Bottle",
+    "price": 160.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Garnier Color Naturals Creme Hair Colour, 5 1/2 Creamy Coffee",
+    "price": 0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Coffee Mate Coffee Creamer 400g",
+    "price": 1150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nestle",
+    "type": "instant",
+    "packaging": {
+      "value": 400.0,
+      "unit": "g",
+      "display": "400g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 50g",
+    "price": 900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 100g",
+    "price": 1700.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nestle Nescafe Gold Blend Coffee, 190g",
+    "price": 2950.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 190.0,
+      "unit": "g",
+      "display": "190g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Laikou Coffee Exfoliating Body Scrub, 350g, LK83656A",
+    "price": 0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 350.0,
+      "unit": "g",
+      "display": "350g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 200g",
+    "price": 2900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 200.0,
+      "unit": "g",
+      "display": "200g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Nestle Nescafe Gold Coffee, 47.5g (Imported)",
+    "price": 1025.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Intense Coffee, 100g",
+    "price": 2150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Decaf 100% Arabica Coffee, 100g",
+    "price": 2265.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Original 100% Arabica Coffee, 100g",
+    "price": 2150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Private Club Hazelnut Coffee, 50g",
+    "price": 650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Pie In The Sky Coffee Biscuits, 16-Pack",
+    "price": 520.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Private Club Caramel Coffee, 50g",
+    "price": 650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe 3in1 Coffee, 20g",
+    "price": 60.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 20.0,
+      "unit": "g",
+      "display": "20g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Gold Cappuccino Coffee, 15.5g",
+    "price": 150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Latte Coffee Drink, 200ml",
+    "price": 110.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "ml",
+      "display": "200ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 50g",
+    "price": 999.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Instant Coffee Choco Hazelnut Ice, 25g",
+    "price": 85.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 25.0,
+      "unit": "g",
+      "display": "25g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe 3-In-1 Salted Caramel Ice Coffee Sachet, 23g",
+    "price": 85.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 23.0,
+      "unit": "g",
+      "display": "23g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 100g",
+    "price": 1900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nescafe Classic Instant Coffee Sachet, 1.5g",
+    "price": 25.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Blend Coffee Sachet, 1.5g",
+    "price": 25.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Mocha Coffee Drink, 200ml",
+    "price": 110.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "ml",
+      "display": "200ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Kopiko Coffee Candy, 140g, Pouch",
+    "price": 375.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 140.0,
+      "unit": "g",
+      "display": "140g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 200g",
+    "price": 3500.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "g",
+      "display": "200g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Tapal Insta Brew 3-In-1 Instant Coffee, 1 Count, 25g",
+    "price": 100.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Tapal",
+    "type": "instant",
+    "packaging": {
+      "value": 25.0,
+      "unit": "g",
+      "display": "25g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Davidoff Rich Aroma Instant Coffee, 100g",
+    "price": 2499.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Davidoff",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Bombay Fresh Bakers Coffee Cake, 1 Pound",
+    "price": 620.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Reload Coffee & Almond Granola Bars, High Fiber & Protein, Gluten Free, 40g",
+    "price": 180.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 40.0,
+      "unit": "g",
+      "display": "40g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "St. Ives Energizing Coconut & Coffee Scrub, Tube, Paraben & Oil Free, 170g",
+    "price": 1000.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 170.0,
+      "unit": "g",
+      "display": "170g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Hazelnut Coffee Drink, 220ml Pet Bottle",
+    "price": 160.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Gold Coffee, 95g Imported",
+    "price": 1650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 95.0,
+      "unit": "g",
+      "display": "95g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Davidoff Fine Aroma Instant Coffee, 100g",
+    "price": 2499.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Davidoff",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee Pouch, 50g",
+    "price": 580.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Salted Caramel Coffee Drink, 220ml Pet Bottle",
+    "price": 160.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Garnier Color Naturals Creme Hair Colour, 5 1/2 Creamy Coffee",
+    "price": 0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Coffee Mate Coffee Creamer 400g",
+    "price": 1150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nestle",
+    "type": "instant",
+    "packaging": {
+      "value": 400.0,
+      "unit": "g",
+      "display": "400g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 50g",
+    "price": 900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 100g",
+    "price": 1700.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nestle Nescafe Gold Blend Coffee, 190g",
+    "price": 2950.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 190.0,
+      "unit": "g",
+      "display": "190g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Laikou Coffee Exfoliating Body Scrub, 350g, LK83656A",
+    "price": 0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 350.0,
+      "unit": "g",
+      "display": "350g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 200g",
+    "price": 2900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 200.0,
+      "unit": "g",
+      "display": "200g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Nestle Nescafe Gold Coffee, 47.5g (Imported)",
+    "price": 1025.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Intense Coffee, 100g",
+    "price": 2150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Decaf 100% Arabica Coffee, 100g",
+    "price": 2265.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Original 100% Arabica Coffee, 100g",
+    "price": 2150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Private Club Hazelnut Coffee, 50g",
+    "price": 650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Pie In The Sky Coffee Biscuits, 16-Pack",
+    "price": 520.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Private Club Caramel Coffee, 50g",
+    "price": 650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe 3in1 Coffee, 20g",
+    "price": 60.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 20.0,
+      "unit": "g",
+      "display": "20g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Gold Cappuccino Coffee, 15.5g",
+    "price": 150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Latte Coffee Drink, 200ml",
+    "price": 110.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "ml",
+      "display": "200ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 50g",
+    "price": 999.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Instant Coffee Choco Hazelnut Ice, 25g",
+    "price": 85.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 25.0,
+      "unit": "g",
+      "display": "25g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe 3-In-1 Salted Caramel Ice Coffee Sachet, 23g",
+    "price": 85.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 23.0,
+      "unit": "g",
+      "display": "23g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 100g",
+    "price": 1900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nescafe Classic Instant Coffee Sachet, 1.5g",
+    "price": 25.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Blend Coffee Sachet, 1.5g",
+    "price": 25.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Mocha Coffee Drink, 200ml",
+    "price": 110.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "ml",
+      "display": "200ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Kopiko Coffee Candy, 140g, Pouch",
+    "price": 375.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 140.0,
+      "unit": "g",
+      "display": "140g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee, 200g",
+    "price": 3500.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "g",
+      "display": "200g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Tapal Insta Brew 3-In-1 Instant Coffee, 1 Count, 25g",
+    "price": 100.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Tapal",
+    "type": "instant",
+    "packaging": {
+      "value": 25.0,
+      "unit": "g",
+      "display": "25g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Davidoff Rich Aroma Instant Coffee, 100g",
+    "price": 2499.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Davidoff",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Bombay Fresh Bakers Coffee Cake, 1 Pound",
+    "price": 620.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Reload Coffee & Almond Granola Bars, High Fiber & Protein, Gluten Free, 40g",
+    "price": 180.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 40.0,
+      "unit": "g",
+      "display": "40g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "St. Ives Energizing Coconut & Coffee Scrub, Tube, Paraben & Oil Free, 170g",
+    "price": 1000.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 170.0,
+      "unit": "g",
+      "display": "170g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Hazelnut Coffee Drink, 220ml Pet Bottle",
+    "price": 160.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Gold Coffee, 95g Imported",
+    "price": 1650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 95.0,
+      "unit": "g",
+      "display": "95g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Davidoff Fine Aroma Instant Coffee, 100g",
+    "price": 2499.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Davidoff",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nestle Nescafe Classic Coffee Pouch, 50g",
+    "price": 580.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Nescafe Chilled Salted Caramel Coffee Drink, 220ml Pet Bottle",
+    "price": 160.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Garnier Color Naturals Creme Hair Colour, 5 1/2 Creamy Coffee",
+    "price": 0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Nestle Coffee Mate Coffee Creamer 400g",
+    "price": 1150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nestle",
+    "type": "instant",
+    "packaging": {
+      "value": 400.0,
+      "unit": "g",
+      "display": "400g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 50g",
+    "price": 900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 100g",
+    "price": 1700.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Nestle Nescafe Gold Blend Coffee, 190g",
+    "price": 2950.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 190.0,
+      "unit": "g",
+      "display": "190g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Laikou Coffee Exfoliating Body Scrub, 350g, LK83656A",
+    "price": 0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 350.0,
+      "unit": "g",
+      "display": "350g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Klassno Classic Premium Coffee Beans, 200g",
+    "price": 2900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "beans",
+    "packaging": {
+      "value": 200.0,
+      "unit": "g",
+      "display": "200g"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Nestle Nescafe Gold Coffee, 47.5g (Imported)",
+    "price": 1025.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 5.0,
+      "unit": "g",
+      "display": "5g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Intense Coffee, 100g",
+    "price": 2150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Decaf 100% Arabica Coffee, 100g",
+    "price": 2265.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Movenpick Gold Original 100% Arabica Coffee, 100g",
+    "price": 2150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Private Club Hazelnut Coffee, 50g",
+    "price": 650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Pie In The Sky Coffee Biscuits, 16-Pack",
+    "price": 520.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Private Club Caramel Coffee, 50g",
+    "price": 650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  }
+]

@@ -1,0 +1,7 @@
+coffee_type,product_count,avg_price,brands
+instant,3,1100.0,Nescafe
+ground,6,2050.0,"Davidoff, Folgers, Lavazza, Jacobs, Illy, Maxwell House"
+powdered,2,600.0,"Mehran, Continental"
+coffee mix,1,850.0,Nescafe
+beans,2,3075.0,"Lavazza, Kauphy"
+tea,1,1350.0,Tapal

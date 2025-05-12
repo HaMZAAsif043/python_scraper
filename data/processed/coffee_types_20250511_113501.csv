@@ -1,0 +1,5 @@
+coffee_type,product_count,avg_price,brands
+instant,40,984.55,"Mehran, Nescafe, Unknown"
+ground,4,1950.0,"Maxwell House, Lavazza, Davidoff, Folgers"
+powdered,1,750.0,Continental
+beans,1,1950.0,Kauphy

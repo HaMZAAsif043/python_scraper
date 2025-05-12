@@ -1,0 +1,113 @@
+name,price,rating,reviews_count,source,brand,type,packaging,price_tier
+Download The App,0.0,0,0,alfatah.com.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Customer Service,0.0,0,0,alfatah.com.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Help & Information,0.0,0,0,alfatah.com.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Unknown,0.0,0,0,alfatah.com.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+"Nestle Nescafe 3in1 Coffee, 20g",60.0,0,0,naheed.pk,Nescafe,instant,"{'value': 20.0, 'unit': 'g', 'display': '20g'}",low
+"Nestle Nescafe Gold Cappuccino Coffee, 15.5g",150.0,0,0,naheed.pk,Nescafe,instant,"{'value': 5.0, 'unit': 'g', 'display': '5g'}",low
+"Nestle Nescafe Chilled Latte Coffee Drink, 200ml",110.0,0,0,naheed.pk,Nescafe,instant,"{'value': 200.0, 'unit': 'ml', 'display': '200ml'}",low
+"Nestle Nescafe Classic Coffee, 50g",999.0,0,0,naheed.pk,Nescafe,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Nestle Nescafe Instant Coffee Choco Hazelnut Ice, 25g",85.0,0,0,naheed.pk,Nescafe,instant,"{'value': 25.0, 'unit': 'g', 'display': '25g'}",low
+"Nestle Nescafe 3-In-1 Salted Caramel Ice Coffee Sachet, 23g",85.0,0,0,naheed.pk,Nescafe,instant,"{'value': 23.0, 'unit': 'g', 'display': '23g'}",low
+"Nestle Nescafe Classic Coffee, 100g",1900.0,0,0,naheed.pk,Nescafe,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Nescafe Classic Instant Coffee Sachet, 1.5g",25.0,0,0,naheed.pk,Nescafe,instant,"{'value': 5.0, 'unit': 'g', 'display': '5g'}",low
+"Klassno Classic Premium Blend Coffee Sachet, 1.5g",25.0,0,0,naheed.pk,Unknown,instant,"{'value': 5.0, 'unit': 'g', 'display': '5g'}",low
+"Nestle Nescafe Chilled Mocha Coffee Drink, 200ml",110.0,0,0,naheed.pk,Nescafe,instant,"{'value': 200.0, 'unit': 'ml', 'display': '200ml'}",low
+"Kopiko Coffee Candy, 140g, Pouch",375.0,0,0,naheed.pk,Unknown,instant,"{'value': 140.0, 'unit': 'g', 'display': '140g'}",low
+"Nestle Nescafe Classic Coffee, 200g",3500.0,0,0,naheed.pk,Nescafe,instant,"{'value': 200.0, 'unit': 'g', 'display': '200g'}",premium
+"Tapal Insta Brew 3-In-1 Instant Coffee, 1 Count, 25g",100.0,0,0,naheed.pk,Tapal,instant,"{'value': 25.0, 'unit': 'g', 'display': '25g'}",low
+"Davidoff Rich Aroma Instant Coffee, 100g",2499.0,0,0,naheed.pk,Davidoff,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Bombay Fresh Bakers Coffee Cake, 1 Pound",620.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+"Reload Coffee & Almond Granola Bars, High Fiber & Protein, Gluten Free, 40g",180.0,0,0,naheed.pk,Unknown,instant,"{'value': 40.0, 'unit': 'g', 'display': '40g'}",low
+"St. Ives Energizing Coconut & Coffee Scrub, Tube, Paraben & Oil Free, 170g",1000.0,0,0,naheed.pk,Unknown,instant,"{'value': 170.0, 'unit': 'g', 'display': '170g'}",low
+"Nestle Nescafe Chilled Hazelnut Coffee Drink, 220ml Pet Bottle",160.0,0,0,naheed.pk,Nescafe,instant,"{'value': 220.0, 'unit': 'ml', 'display': '220ml'}",low
+"Nestle Nescafe Gold Coffee, 95g Imported",1650.0,0,0,naheed.pk,Nescafe,instant,"{'value': 95.0, 'unit': 'g', 'display': '95g'}",mid
+"Davidoff Fine Aroma Instant Coffee, 100g",2499.0,0,0,naheed.pk,Davidoff,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Nestle Nescafe Classic Coffee Pouch, 50g",580.0,0,0,naheed.pk,Nescafe,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Nestle Nescafe Chilled Salted Caramel Coffee Drink, 220ml Pet Bottle",160.0,0,0,naheed.pk,Nescafe,instant,"{'value': 220.0, 'unit': 'ml', 'display': '220ml'}",low
+"Garnier Color Naturals Creme Hair Colour, 5 1/2 Creamy Coffee",0.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Nestle Coffee Mate Coffee Creamer 400g,1150.0,0,0,naheed.pk,Nestle,instant,"{'value': 400.0, 'unit': 'g', 'display': '400g'}",mid
+"Klassno Classic Premium Coffee Beans, 50g",900.0,0,0,naheed.pk,Unknown,beans,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Klassno Classic Premium Coffee Beans, 100g",1700.0,0,0,naheed.pk,Unknown,beans,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Nestle Nescafe Gold Blend Coffee, 190g",2950.0,0,0,naheed.pk,Nescafe,instant,"{'value': 190.0, 'unit': 'g', 'display': '190g'}",premium
+"Laikou Coffee Exfoliating Body Scrub, 350g, LK83656A",0.0,0,0,naheed.pk,Unknown,instant,"{'value': 350.0, 'unit': 'g', 'display': '350g'}",low
+"Klassno Classic Premium Coffee Beans, 200g",2900.0,0,0,naheed.pk,Unknown,beans,"{'value': 200.0, 'unit': 'g', 'display': '200g'}",premium
+"Nestle Nescafe Gold Coffee, 47.5g (Imported)",1025.0,0,0,naheed.pk,Nescafe,instant,"{'value': 5.0, 'unit': 'g', 'display': '5g'}",mid
+"Movenpick Gold Intense Coffee, 100g",2150.0,0,0,naheed.pk,Unknown,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Movenpick Gold Decaf 100% Arabica Coffee, 100g",2265.0,0,0,naheed.pk,Unknown,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Movenpick Gold Original 100% Arabica Coffee, 100g",2150.0,0,0,naheed.pk,Unknown,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Private Club Hazelnut Coffee, 50g",650.0,0,0,naheed.pk,Unknown,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Pie In The Sky Coffee Biscuits, 16-Pack",520.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+"Private Club Caramel Coffee, 50g",650.0,0,0,naheed.pk,Unknown,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Nestle Nescafe 3in1 Coffee, 20g",60.0,0,0,naheed.pk,Nescafe,instant,"{'value': 20.0, 'unit': 'g', 'display': '20g'}",low
+"Nestle Nescafe Gold Cappuccino Coffee, 15.5g",150.0,0,0,naheed.pk,Nescafe,instant,"{'value': 5.0, 'unit': 'g', 'display': '5g'}",low
+"Nestle Nescafe Chilled Latte Coffee Drink, 200ml",110.0,0,0,naheed.pk,Nescafe,instant,"{'value': 200.0, 'unit': 'ml', 'display': '200ml'}",low
+"Nestle Nescafe Classic Coffee, 50g",999.0,0,0,naheed.pk,Nescafe,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Nestle Nescafe Instant Coffee Choco Hazelnut Ice, 25g",85.0,0,0,naheed.pk,Nescafe,instant,"{'value': 25.0, 'unit': 'g', 'display': '25g'}",low
+"Nestle Nescafe 3-In-1 Salted Caramel Ice Coffee Sachet, 23g",85.0,0,0,naheed.pk,Nescafe,instant,"{'value': 23.0, 'unit': 'g', 'display': '23g'}",low
+"Nestle Nescafe Classic Coffee, 100g",1900.0,0,0,naheed.pk,Nescafe,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Nescafe Classic Instant Coffee Sachet, 1.5g",25.0,0,0,naheed.pk,Nescafe,instant,"{'value': 5.0, 'unit': 'g', 'display': '5g'}",low
+"Klassno Classic Premium Blend Coffee Sachet, 1.5g",25.0,0,0,naheed.pk,Unknown,instant,"{'value': 5.0, 'unit': 'g', 'display': '5g'}",low
+"Nestle Nescafe Chilled Mocha Coffee Drink, 200ml",110.0,0,0,naheed.pk,Nescafe,instant,"{'value': 200.0, 'unit': 'ml', 'display': '200ml'}",low
+"Kopiko Coffee Candy, 140g, Pouch",375.0,0,0,naheed.pk,Unknown,instant,"{'value': 140.0, 'unit': 'g', 'display': '140g'}",low
+"Nestle Nescafe Classic Coffee, 200g",3500.0,0,0,naheed.pk,Nescafe,instant,"{'value': 200.0, 'unit': 'g', 'display': '200g'}",premium
+"Tapal Insta Brew 3-In-1 Instant Coffee, 1 Count, 25g",100.0,0,0,naheed.pk,Tapal,instant,"{'value': 25.0, 'unit': 'g', 'display': '25g'}",low
+"Davidoff Rich Aroma Instant Coffee, 100g",2499.0,0,0,naheed.pk,Davidoff,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Bombay Fresh Bakers Coffee Cake, 1 Pound",620.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+"Reload Coffee & Almond Granola Bars, High Fiber & Protein, Gluten Free, 40g",180.0,0,0,naheed.pk,Unknown,instant,"{'value': 40.0, 'unit': 'g', 'display': '40g'}",low
+"St. Ives Energizing Coconut & Coffee Scrub, Tube, Paraben & Oil Free, 170g",1000.0,0,0,naheed.pk,Unknown,instant,"{'value': 170.0, 'unit': 'g', 'display': '170g'}",low
+"Nestle Nescafe Chilled Hazelnut Coffee Drink, 220ml Pet Bottle",160.0,0,0,naheed.pk,Nescafe,instant,"{'value': 220.0, 'unit': 'ml', 'display': '220ml'}",low
+"Nestle Nescafe Gold Coffee, 95g Imported",1650.0,0,0,naheed.pk,Nescafe,instant,"{'value': 95.0, 'unit': 'g', 'display': '95g'}",mid
+"Davidoff Fine Aroma Instant Coffee, 100g",2499.0,0,0,naheed.pk,Davidoff,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Nestle Nescafe Classic Coffee Pouch, 50g",580.0,0,0,naheed.pk,Nescafe,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Nestle Nescafe Chilled Salted Caramel Coffee Drink, 220ml Pet Bottle",160.0,0,0,naheed.pk,Nescafe,instant,"{'value': 220.0, 'unit': 'ml', 'display': '220ml'}",low
+"Garnier Color Naturals Creme Hair Colour, 5 1/2 Creamy Coffee",0.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Nestle Coffee Mate Coffee Creamer 400g,1150.0,0,0,naheed.pk,Nestle,instant,"{'value': 400.0, 'unit': 'g', 'display': '400g'}",mid
+"Klassno Classic Premium Coffee Beans, 50g",900.0,0,0,naheed.pk,Unknown,beans,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Klassno Classic Premium Coffee Beans, 100g",1700.0,0,0,naheed.pk,Unknown,beans,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Nestle Nescafe Gold Blend Coffee, 190g",2950.0,0,0,naheed.pk,Nescafe,instant,"{'value': 190.0, 'unit': 'g', 'display': '190g'}",premium
+"Laikou Coffee Exfoliating Body Scrub, 350g, LK83656A",0.0,0,0,naheed.pk,Unknown,instant,"{'value': 350.0, 'unit': 'g', 'display': '350g'}",low
+"Klassno Classic Premium Coffee Beans, 200g",2900.0,0,0,naheed.pk,Unknown,beans,"{'value': 200.0, 'unit': 'g', 'display': '200g'}",premium
+"Nestle Nescafe Gold Coffee, 47.5g (Imported)",1025.0,0,0,naheed.pk,Nescafe,instant,"{'value': 5.0, 'unit': 'g', 'display': '5g'}",mid
+"Movenpick Gold Intense Coffee, 100g",2150.0,0,0,naheed.pk,Unknown,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Movenpick Gold Decaf 100% Arabica Coffee, 100g",2265.0,0,0,naheed.pk,Unknown,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Movenpick Gold Original 100% Arabica Coffee, 100g",2150.0,0,0,naheed.pk,Unknown,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Private Club Hazelnut Coffee, 50g",650.0,0,0,naheed.pk,Unknown,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Pie In The Sky Coffee Biscuits, 16-Pack",520.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+"Private Club Caramel Coffee, 50g",650.0,0,0,naheed.pk,Unknown,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Nestle Nescafe 3in1 Coffee, 20g",60.0,0,0,naheed.pk,Nescafe,instant,"{'value': 20.0, 'unit': 'g', 'display': '20g'}",low
+"Nestle Nescafe Gold Cappuccino Coffee, 15.5g",150.0,0,0,naheed.pk,Nescafe,instant,"{'value': 5.0, 'unit': 'g', 'display': '5g'}",low
+"Nestle Nescafe Chilled Latte Coffee Drink, 200ml",110.0,0,0,naheed.pk,Nescafe,instant,"{'value': 200.0, 'unit': 'ml', 'display': '200ml'}",low
+"Nestle Nescafe Classic Coffee, 50g",999.0,0,0,naheed.pk,Nescafe,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Nestle Nescafe Instant Coffee Choco Hazelnut Ice, 25g",85.0,0,0,naheed.pk,Nescafe,instant,"{'value': 25.0, 'unit': 'g', 'display': '25g'}",low
+"Nestle Nescafe 3-In-1 Salted Caramel Ice Coffee Sachet, 23g",85.0,0,0,naheed.pk,Nescafe,instant,"{'value': 23.0, 'unit': 'g', 'display': '23g'}",low
+"Nestle Nescafe Classic Coffee, 100g",1900.0,0,0,naheed.pk,Nescafe,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Nescafe Classic Instant Coffee Sachet, 1.5g",25.0,0,0,naheed.pk,Nescafe,instant,"{'value': 5.0, 'unit': 'g', 'display': '5g'}",low
+"Klassno Classic Premium Blend Coffee Sachet, 1.5g",25.0,0,0,naheed.pk,Unknown,instant,"{'value': 5.0, 'unit': 'g', 'display': '5g'}",low
+"Nestle Nescafe Chilled Mocha Coffee Drink, 200ml",110.0,0,0,naheed.pk,Nescafe,instant,"{'value': 200.0, 'unit': 'ml', 'display': '200ml'}",low
+"Kopiko Coffee Candy, 140g, Pouch",375.0,0,0,naheed.pk,Unknown,instant,"{'value': 140.0, 'unit': 'g', 'display': '140g'}",low
+"Nestle Nescafe Classic Coffee, 200g",3500.0,0,0,naheed.pk,Nescafe,instant,"{'value': 200.0, 'unit': 'g', 'display': '200g'}",premium
+"Tapal Insta Brew 3-In-1 Instant Coffee, 1 Count, 25g",100.0,0,0,naheed.pk,Tapal,instant,"{'value': 25.0, 'unit': 'g', 'display': '25g'}",low
+"Davidoff Rich Aroma Instant Coffee, 100g",2499.0,0,0,naheed.pk,Davidoff,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Bombay Fresh Bakers Coffee Cake, 1 Pound",620.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+"Reload Coffee & Almond Granola Bars, High Fiber & Protein, Gluten Free, 40g",180.0,0,0,naheed.pk,Unknown,instant,"{'value': 40.0, 'unit': 'g', 'display': '40g'}",low
+"St. Ives Energizing Coconut & Coffee Scrub, Tube, Paraben & Oil Free, 170g",1000.0,0,0,naheed.pk,Unknown,instant,"{'value': 170.0, 'unit': 'g', 'display': '170g'}",low
+"Nestle Nescafe Chilled Hazelnut Coffee Drink, 220ml Pet Bottle",160.0,0,0,naheed.pk,Nescafe,instant,"{'value': 220.0, 'unit': 'ml', 'display': '220ml'}",low
+"Nestle Nescafe Gold Coffee, 95g Imported",1650.0,0,0,naheed.pk,Nescafe,instant,"{'value': 95.0, 'unit': 'g', 'display': '95g'}",mid
+"Davidoff Fine Aroma Instant Coffee, 100g",2499.0,0,0,naheed.pk,Davidoff,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Nestle Nescafe Classic Coffee Pouch, 50g",580.0,0,0,naheed.pk,Nescafe,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Nestle Nescafe Chilled Salted Caramel Coffee Drink, 220ml Pet Bottle",160.0,0,0,naheed.pk,Nescafe,instant,"{'value': 220.0, 'unit': 'ml', 'display': '220ml'}",low
+"Garnier Color Naturals Creme Hair Colour, 5 1/2 Creamy Coffee",0.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+Nestle Coffee Mate Coffee Creamer 400g,1150.0,0,0,naheed.pk,Nestle,instant,"{'value': 400.0, 'unit': 'g', 'display': '400g'}",mid
+"Klassno Classic Premium Coffee Beans, 50g",900.0,0,0,naheed.pk,Unknown,beans,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Klassno Classic Premium Coffee Beans, 100g",1700.0,0,0,naheed.pk,Unknown,beans,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Nestle Nescafe Gold Blend Coffee, 190g",2950.0,0,0,naheed.pk,Nescafe,instant,"{'value': 190.0, 'unit': 'g', 'display': '190g'}",premium
+"Laikou Coffee Exfoliating Body Scrub, 350g, LK83656A",0.0,0,0,naheed.pk,Unknown,instant,"{'value': 350.0, 'unit': 'g', 'display': '350g'}",low
+"Klassno Classic Premium Coffee Beans, 200g",2900.0,0,0,naheed.pk,Unknown,beans,"{'value': 200.0, 'unit': 'g', 'display': '200g'}",premium
+"Nestle Nescafe Gold Coffee, 47.5g (Imported)",1025.0,0,0,naheed.pk,Nescafe,instant,"{'value': 5.0, 'unit': 'g', 'display': '5g'}",mid
+"Movenpick Gold Intense Coffee, 100g",2150.0,0,0,naheed.pk,Unknown,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Movenpick Gold Decaf 100% Arabica Coffee, 100g",2265.0,0,0,naheed.pk,Unknown,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Movenpick Gold Original 100% Arabica Coffee, 100g",2150.0,0,0,naheed.pk,Unknown,instant,"{'value': 100.0, 'unit': 'g', 'display': '100g'}",mid
+"Private Club Hazelnut Coffee, 50g",650.0,0,0,naheed.pk,Unknown,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low
+"Pie In The Sky Coffee Biscuits, 16-Pack",520.0,0,0,naheed.pk,Unknown,instant,"{'value': 0, 'unit': 'unknown', 'display': 'unknown'}",low
+"Private Club Caramel Coffee, 50g",650.0,0,0,naheed.pk,Unknown,instant,"{'value': 50.0, 'unit': 'g', 'display': '50g'}",low

@@ -1,0 +1,6 @@
+coffee_type,product_count,avg_price,brands
+instant,537,283.0082352886406,"Nestle, Davidoff, Nescafe, Espresso, Unknown, Tapal, Coffee House, Coffee Shop"
+coffee mix,13,0.0,Unknown
+beans,44,625.0387045454546,Unknown
+capsule/pod,6,0.05325,"Unknown, Espresso"
+ground,9,0.4225555555555556,Unknown

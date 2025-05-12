@@ -1,0 +1,11 @@
+{
+  "products": [],
+  "brands": {},
+  "types": {},
+  "packaging": {},
+  "price_tiers": {
+    "low": [],
+    "mid": [],
+    "premium": []
+  }
+}

@@ -1,0 +1,692 @@
+[
+  {
+    "name": "[SAMPLE] Nescafe Classic Instant Coffee 200g",
+    "price": 950.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "alfatah.com.pk",
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 200.0,
+      "unit": "g",
+      "display": "200g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "[SAMPLE] Nescafe Gold Blend Premium Coffee 100g Jar",
+    "price": 1250.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "alfatah.com.pk",
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "[SAMPLE] Davidoff Rich Aroma Ground Coffee 250g",
+    "price": 2350.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "alfatah.com.pk",
+    "brand": "Davidoff",
+    "type": "ground",
+    "packaging": {
+      "value": 250.0,
+      "unit": "g",
+      "display": "250g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "[SAMPLE] Lavazza Qualita Oro Ground Coffee 250g",
+    "price": 2100.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "alfatah.com.pk",
+    "brand": "Lavazza",
+    "type": "ground",
+    "packaging": {
+      "value": 250.0,
+      "unit": "g",
+      "display": "250g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "[SAMPLE] Maxwell House Original Roast Ground Coffee 300g",
+    "price": 1800.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "alfatah.com.pk",
+    "brand": "Maxwell House",
+    "type": "ground",
+    "packaging": {
+      "value": 300.0,
+      "unit": "g",
+      "display": "300g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "[SAMPLE] Mehran Instant Coffee Powder 50g",
+    "price": 450.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "alfatah.com.pk",
+    "brand": "Mehran",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "[SAMPLE] Nescafe 3 in 1 Instant Coffee Mix 30 Sticks",
+    "price": 850.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "alfatah.com.pk",
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 30.0,
+      "unit": "count",
+      "display": "30count"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "[SAMPLE] Folgers Classic Roast Ground Coffee 226g",
+    "price": 1550.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "alfatah.com.pk",
+    "brand": "Folgers",
+    "type": "ground",
+    "packaging": {
+      "value": 226.0,
+      "unit": "g",
+      "display": "226g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "[SAMPLE] Continental Premium Blend Coffee Powder 100g",
+    "price": 750.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "alfatah.com.pk",
+    "brand": "Continental",
+    "type": "powdered",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "[SAMPLE] Kauphy Italian Roast Coffee Beans 250g",
+    "price": 1950.0,
+    "rating": 0,
+    "reviews_count": 0,
+    "source": "alfatah.com.pk",
+    "brand": "Kauphy",
+    "type": "beans",
+    "packaging": {
+      "value": 250.0,
+      "unit": "g",
+      "display": "250g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Unknown",
+    "price": 60.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 110.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 999.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 85.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 85.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 1900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Unknown",
+    "price": 25.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 25.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 110.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 375.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 3500.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Unknown",
+    "price": 100.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 2499.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Unknown",
+    "price": 620.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 180.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 1000.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 160.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 1650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Unknown",
+    "price": 2499.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Unknown",
+    "price": 580.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 160.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 1150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Unknown",
+    "price": 900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 1700.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Unknown",
+    "price": 2950.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Unknown",
+    "price": 0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 2900.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "premium"
+  },
+  {
+    "name": "Unknown",
+    "price": 1025.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Unknown",
+    "price": 2150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Unknown",
+    "price": 2265.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Unknown",
+    "price": 2150.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "name": "Unknown",
+    "price": 650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 520.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  },
+  {
+    "name": "Unknown",
+    "price": 650.0,
+    "source": "naheed.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Unknown",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "low"
+  }
+]

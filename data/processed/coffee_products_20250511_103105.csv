@@ -1,0 +1,16 @@
+name,price,rating,reviews_count,source,brand,type,packaging,price_tier
+Nescafe Classic Instant Coffee 200g,950,4.5,120,sample_data,Nescafe,instant,"{'value': 200, 'unit': 'g', 'display': '200g'}",low
+Nescafe Gold Blend Premium Coffee 100g Jar,1250,4.7,85,sample_data,Nescafe,instant,"{'value': 100, 'unit': 'g', 'display': '100g'}",mid
+Davidoff Rich Aroma Ground Coffee 250g,2350,4.8,42,sample_data,Davidoff,ground,"{'value': 250, 'unit': 'g', 'display': '250g'}",mid
+Lavazza Qualita Oro Ground Coffee 250g,2100,4.6,38,sample_data,Lavazza,ground,"{'value': 250, 'unit': 'g', 'display': '250g'}",mid
+Maxwell House Original Roast Ground Coffee 300g,1800,4.2,29,sample_data,Maxwell House,ground,"{'value': 300, 'unit': 'g', 'display': '300g'}",mid
+Mehran Instant Coffee Powder 50g,450,3.9,65,sample_data,Mehran,powdered,"{'value': 50, 'unit': 'g', 'display': '50g'}",low
+Nescafe 3 in 1 Instant Coffee Mix 30 Sticks,850,4.4,95,sample_data,Nescafe,coffee mix,"{'value': 30, 'unit': 'count', 'display': '30count'}",low
+Folgers Classic Roast Ground Coffee 226g,1550,4.3,22,sample_data,Folgers,ground,"{'value': 226, 'unit': 'g', 'display': '226g'}",mid
+Continental Premium Blend Coffee Powder 100g,750,4.0,48,sample_data,Continental,powdered,"{'value': 100, 'unit': 'g', 'display': '100g'}",low
+Kauphy Italian Roast Coffee Beans 250g,1950,4.8,15,sample_data,Kauphy,beans,"{'value': 250, 'unit': 'g', 'display': '250g'}",mid
+Lavazza Super Crema Espresso Coffee Beans 1kg,4200,4.9,28,sample_data,Lavazza,beans,"{'value': 1000, 'unit': 'g', 'display': '1000g'}",premium
+Nescafe Tasters Choice Instant Coffee 200g,1100,4.2,56,sample_data,Nescafe,instant,"{'value': 200, 'unit': 'g', 'display': '200g'}",mid
+Illy Classico Medium Roast Ground Coffee 250g,2800,4.7,33,sample_data,Illy,ground,"{'value': 250, 'unit': 'g', 'display': '250g'}",premium
+Tapal Premium Danedar Tea 900g,1350,4.4,112,sample_data,Tapal,tea,"{'value': 900, 'unit': 'g', 'display': '900g'}",mid
+Jacobs Kronung Ground Coffee 250g,1700,4.5,27,sample_data,Jacobs,ground,"{'value': 250, 'unit': 'g', 'display': '250g'}",mid

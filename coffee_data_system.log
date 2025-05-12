@@ -1,0 +1,125 @@
+2025-05-10 16:02:41,635 - __main__ - INFO - Coffee Shop Data Analysis System starting...
+2025-05-10 16:02:41,641 - __main__ - INFO - Running full pipeline once...
+2025-05-10 16:02:41,643 - __main__ - INFO - Starting full data pipeline at 20250510_160241
+2025-05-10 16:02:41,647 - __main__ - INFO - Starting data collection...
+2025-05-10 16:02:41,652 - src.data_collection.google_maps - INFO - Collecting data for location: Karachi, Pakistan
+2025-05-10 16:02:41,653 - src.data_collection.google_maps - INFO - Searching for coffee shops in Karachi, Pakistan
+2025-05-10 16:02:41,654 - WDM - INFO - ====== WebDriver manager ======
+2025-05-10 16:02:51,096 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 16:02:51,314 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 16:02:51,477 - WDM - INFO - There is no [win64] chromedriver "136.0.7103.92" for browser google-chrome "136.0.7103" in cache
+2025-05-10 16:02:51,479 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 16:02:51,997 - WDM - INFO - WebDriver version 136.0.7103.92 selected
+2025-05-10 16:02:52,006 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-10 16:02:52,007 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-10 16:02:52,259 - WDM - INFO - Driver downloading response is 200
+2025-05-10 16:02:55,572 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 16:02:57,878 - WDM - INFO - Driver has been saved in cache [C:\Users\MADIHA\.wdm\drivers\chromedriver\win64\136.0.7103.92]
+2025-05-10 16:03:01,707 - src.data_collection.google_maps - INFO - Selenium WebDriver set up successfully
+2025-05-10 16:03:18,985 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Karachi, Pakistan
+2025-05-10 16:03:19,423 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Karachi,_Pakistan_1746874998.png
+2025-05-10 16:03:19,715 - src.data_collection.google_maps - INFO - Collecting data for location: Lahore, Pakistan
+2025-05-10 16:03:19,715 - src.data_collection.google_maps - INFO - Searching for coffee shops in Lahore, Pakistan
+2025-05-10 16:03:32,893 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Lahore, Pakistan
+2025-05-10 16:03:33,388 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Lahore,_Pakistan_1746875012.png
+2025-05-10 16:03:33,635 - src.data_collection.google_maps - INFO - Collecting data for location: Islamabad, Pakistan
+2025-05-10 16:03:33,635 - src.data_collection.google_maps - INFO - Searching for coffee shops in Islamabad, Pakistan
+2025-05-10 16:03:47,933 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Islamabad, Pakistan
+2025-05-10 16:03:48,510 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Islamabad,_Pakistan_1746875027.png
+2025-05-10 16:03:48,765 - src.data_collection.google_maps - INFO - Collecting data for location: Rawalpindi, Pakistan
+2025-05-10 16:03:48,766 - src.data_collection.google_maps - INFO - Searching for coffee shops in Rawalpindi, Pakistan
+2025-05-10 16:04:01,800 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Rawalpindi, Pakistan
+2025-05-10 16:04:02,328 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Rawalpindi,_Pakistan_1746875041.png
+2025-05-10 16:04:02,908 - src.data_collection.google_maps - INFO - Collecting data for location: Peshawar, Pakistan
+2025-05-10 16:04:02,928 - src.data_collection.google_maps - INFO - Searching for coffee shops in Peshawar, Pakistan
+2025-05-10 16:04:19,279 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Peshawar, Pakistan
+2025-05-10 16:04:20,062 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Peshawar,_Pakistan_1746875059.png
+2025-05-10 16:04:20,609 - src.data_collection.google_maps - INFO - Collecting data for location: Multan, Pakistan
+2025-05-10 16:04:20,611 - src.data_collection.google_maps - INFO - Searching for coffee shops in Multan, Pakistan
+2025-05-10 16:04:37,340 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Multan, Pakistan
+2025-05-10 16:04:37,921 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Multan,_Pakistan_1746875077.png
+2025-05-10 16:04:38,297 - src.data_collection.google_maps - INFO - Collecting data for location: Faisalabad, Pakistan
+2025-05-10 16:04:38,297 - src.data_collection.google_maps - INFO - Searching for coffee shops in Faisalabad, Pakistan
+2025-05-10 16:04:52,174 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Faisalabad, Pakistan
+2025-05-10 16:04:52,831 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Faisalabad,_Pakistan_1746875092.png
+2025-05-10 16:04:53,701 - src.data_collection.google_maps - INFO - Saved 0 coffee shops data to C:\Users\MADIHA\Desktop\python automation\data/raw\google_maps_20250510_160453.json
+2025-05-10 16:04:53,705 - __main__ - ERROR - Error in data pipeline: 'TwitterDataCollector' object has no attribute 'bearer_token'
+2025-05-10 16:26:13,846 - __main__ - INFO - Coffee Shop Data Analysis System starting...
+2025-05-10 16:26:13,847 - __main__ - INFO - Running full pipeline once...
+2025-05-10 16:26:13,847 - __main__ - INFO - Starting full data pipeline at 20250510_162613
+2025-05-10 16:26:13,848 - __main__ - INFO - Starting data collection...
+2025-05-10 16:26:13,851 - src.data_collection.google_maps - INFO - Collecting data for location: Karachi, Pakistan
+2025-05-10 16:26:13,852 - src.data_collection.google_maps - INFO - Searching for coffee shops in Karachi, Pakistan
+2025-05-10 16:26:13,854 - WDM - INFO - ====== WebDriver manager ======
+2025-05-10 16:26:16,672 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 16:26:16,858 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 16:26:16,996 - WDM - INFO - Driver [C:\Users\MADIHA\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 16:26:19,257 - src.data_collection.google_maps - INFO - Selenium WebDriver set up successfully
+2025-05-10 16:26:37,808 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Karachi, Pakistan
+2025-05-10 16:26:38,196 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Karachi,_Pakistan_1746876397.png
+2025-05-10 16:26:38,748 - src.data_collection.google_maps - INFO - Collecting data for location: Lahore, Pakistan
+2025-05-10 16:26:38,749 - src.data_collection.google_maps - INFO - Searching for coffee shops in Lahore, Pakistan
+2025-05-10 16:27:13,159 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Lahore, Pakistan
+2025-05-10 16:27:13,788 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Lahore,_Pakistan_1746876433.png
+2025-05-10 16:27:14,231 - src.data_collection.google_maps - INFO - Collecting data for location: Islamabad, Pakistan
+2025-05-10 16:27:14,231 - src.data_collection.google_maps - INFO - Searching for coffee shops in Islamabad, Pakistan
+2025-05-10 16:27:30,401 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Islamabad, Pakistan
+2025-05-10 16:27:31,206 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Islamabad,_Pakistan_1746876450.png
+2025-05-10 16:27:32,248 - src.data_collection.google_maps - INFO - Collecting data for location: Rawalpindi, Pakistan
+2025-05-10 16:27:32,253 - src.data_collection.google_maps - INFO - Searching for coffee shops in Rawalpindi, Pakistan
+2025-05-10 16:27:50,843 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Rawalpindi, Pakistan
+2025-05-10 16:27:51,796 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Rawalpindi,_Pakistan_1746876470.png
+2025-05-10 16:27:52,996 - src.data_collection.google_maps - INFO - Collecting data for location: Peshawar, Pakistan
+2025-05-10 16:27:53,013 - src.data_collection.google_maps - INFO - Searching for coffee shops in Peshawar, Pakistan
+2025-05-10 16:28:11,945 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Peshawar, Pakistan
+2025-05-10 16:28:12,703 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Peshawar,_Pakistan_1746876491.png
+2025-05-10 16:28:13,689 - src.data_collection.google_maps - INFO - Collecting data for location: Multan, Pakistan
+2025-05-10 16:28:13,695 - src.data_collection.google_maps - INFO - Searching for coffee shops in Multan, Pakistan
+2025-05-10 16:28:28,166 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Multan, Pakistan
+2025-05-10 16:28:28,824 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Multan,_Pakistan_1746876508.png
+2025-05-10 16:28:31,122 - src.data_collection.google_maps - INFO - Collecting data for location: Faisalabad, Pakistan
+2025-05-10 16:28:31,139 - src.data_collection.google_maps - INFO - Searching for coffee shops in Faisalabad, Pakistan
+2025-05-11 12:41:15,889 - __main__ - INFO - Coffee Shop Data Analysis System starting...
+2025-05-11 12:41:15,890 - __main__ - INFO - Starting full data pipeline at 20250511_124115
+2025-05-11 12:41:15,890 - __main__ - INFO - Starting data collection...
+2025-05-11 12:41:15,890 - src.data_collection.google_maps - INFO - Collecting data for location: Karachi, Pakistan
+2025-05-11 12:41:15,891 - src.data_collection.google_maps - INFO - Searching for coffee shops in Karachi, Pakistan
+2025-05-11 12:41:15,891 - WDM - INFO - ====== WebDriver manager ======
+2025-05-11 12:41:21,110 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 12:41:22,096 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 12:41:22,250 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 12:41:22,965 - WDM - INFO - WebDriver version 136.0.7103.92 selected
+2025-05-11 12:41:22,971 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-11 12:41:22,971 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-11 12:41:23,440 - WDM - INFO - Driver downloading response is 200
+2025-05-11 12:41:47,876 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 12:41:48,416 - WDM - INFO - Driver has been saved in cache [C:\Users\MADIHA\.wdm\drivers\chromedriver\win64\136.0.7103.92]
+2025-05-11 12:41:51,275 - src.data_collection.google_maps - INFO - Selenium WebDriver set up successfully
+2025-05-11 12:42:08,001 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Karachi, Pakistan
+2025-05-11 12:42:08,802 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Karachi,_Pakistan_1746949328.png
+2025-05-11 12:42:09,397 - src.data_collection.google_maps - INFO - Collecting data for location: Lahore, Pakistan
+2025-05-11 12:42:09,400 - src.data_collection.google_maps - INFO - Searching for coffee shops in Lahore, Pakistan
+2025-05-11 12:42:28,338 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Lahore, Pakistan
+2025-05-11 12:42:29,582 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Lahore,_Pakistan_1746949348.png
+2025-05-11 12:42:30,026 - src.data_collection.google_maps - INFO - Collecting data for location: Islamabad, Pakistan
+2025-05-11 12:42:30,034 - src.data_collection.google_maps - INFO - Searching for coffee shops in Islamabad, Pakistan
+2025-05-11 12:42:43,204 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Islamabad, Pakistan
+2025-05-11 12:42:44,334 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Islamabad,_Pakistan_1746949363.png
+2025-05-11 12:42:44,895 - src.data_collection.google_maps - INFO - Collecting data for location: Rawalpindi, Pakistan
+2025-05-11 12:42:44,896 - src.data_collection.google_maps - INFO - Searching for coffee shops in Rawalpindi, Pakistan
+2025-05-11 12:43:05,513 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Rawalpindi, Pakistan
+2025-05-11 12:43:05,945 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Rawalpindi,_Pakistan_1746949385.png
+2025-05-11 12:43:06,174 - src.data_collection.google_maps - INFO - Collecting data for location: Peshawar, Pakistan
+2025-05-11 12:43:06,175 - src.data_collection.google_maps - INFO - Searching for coffee shops in Peshawar, Pakistan
+2025-05-11 12:43:24,182 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Peshawar, Pakistan
+2025-05-11 12:43:24,834 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Peshawar,_Pakistan_1746949404.png
+2025-05-11 12:43:25,151 - src.data_collection.google_maps - INFO - Collecting data for location: Multan, Pakistan
+2025-05-11 12:43:25,153 - src.data_collection.google_maps - INFO - Searching for coffee shops in Multan, Pakistan
+2025-05-11 12:43:38,998 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Multan, Pakistan
+2025-05-11 12:43:39,630 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Multan,_Pakistan_1746949419.png
+2025-05-11 12:43:39,918 - src.data_collection.google_maps - INFO - Collecting data for location: Faisalabad, Pakistan
+2025-05-11 12:43:39,920 - src.data_collection.google_maps - INFO - Searching for coffee shops in Faisalabad, Pakistan
+2025-05-11 12:44:00,222 - src.data_collection.google_maps - ERROR - Timeout waiting for search results in Faisalabad, Pakistan
+2025-05-11 12:44:00,700 - src.data_collection.google_maps - INFO - Error screenshot saved to error_screenshot_Faisalabad,_Pakistan_1746949440.png
+2025-05-11 12:44:01,093 - src.data_collection.google_maps - INFO - Saved 0 coffee shops data to C:\Users\MADIHA\Desktop\python automation\data/raw\google_maps_20250511_124401.json
+2025-05-11 12:44:01,127 - __main__ - ERROR - Error in data pipeline: 'TwitterDataCollector' object has no attribute 'bearer_token'

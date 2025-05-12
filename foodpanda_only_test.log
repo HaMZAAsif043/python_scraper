@@ -1,0 +1,34 @@
+2025-05-11 22:19:19,109 - foodpanda_test - ERROR - Error importing directly: invalid syntax (coffee_market.py, line 1318)
+2025-05-11 22:19:19,394 - foodpanda_test - ERROR - Error importing with importlib: invalid syntax (coffee_market.py, line 1318)
+2025-05-11 22:38:55,199 - foodpanda_test - ERROR - Error importing directly: unexpected indent (coffee_market.py, line 1492)
+2025-05-11 22:38:55,327 - foodpanda_test - ERROR - Error importing with importlib: unexpected indent (coffee_market.py, line 1492)
+2025-05-12 10:13:50,840 - foodpanda_test - ERROR - Error importing directly: unexpected indent (coffee_market.py, line 1494)
+2025-05-12 10:13:51,075 - foodpanda_test - ERROR - Error importing with importlib: unexpected indent (coffee_market.py, line 1494)
+2025-05-12 10:14:02,112 - foodpanda_test - ERROR - Error importing directly: unexpected indent (coffee_market.py, line 1494)
+2025-05-12 10:14:02,545 - foodpanda_test - ERROR - Error importing with importlib: unexpected indent (coffee_market.py, line 1494)
+2025-05-12 10:17:42,348 - foodpanda_test - ERROR - Error importing directly: unindent does not match any outer indentation level (coffee_market.py, line 1319)
+2025-05-12 10:17:42,480 - foodpanda_test - ERROR - Error importing with importlib: unindent does not match any outer indentation level (coffee_market.py, line 1319)
+2025-05-12 10:18:03,480 - foodpanda_test - ERROR - Error importing directly: unexpected indent (coffee_market.py, line 1493)
+2025-05-12 10:18:03,687 - foodpanda_test - ERROR - Error importing with importlib: unindent does not match any outer indentation level (coffee_market.py, line 1317)
+2025-05-12 10:19:11,133 - foodpanda_test - ERROR - Error importing directly: unindent does not match any outer indentation level (coffee_market.py, line 1317)
+2025-05-12 10:19:11,263 - foodpanda_test - ERROR - Error importing with importlib: unindent does not match any outer indentation level (coffee_market.py, line 1317)
+2025-05-12 10:20:29,359 - foodpanda_test - ERROR - Error importing directly: unexpected indent (coffee_market.py, line 1314)
+2025-05-12 10:20:29,554 - foodpanda_test - ERROR - Error importing with importlib: unexpected indent (coffee_market.py, line 1314)
+2025-05-12 10:21:07,173 - foodpanda_test - ERROR - Error importing directly: unindent does not match any outer indentation level (coffee_market.py, line 1310)
+2025-05-12 10:21:07,306 - foodpanda_test - ERROR - Error importing with importlib: unindent does not match any outer indentation level (coffee_market.py, line 1310)
+2025-05-12 10:21:45,363 - foodpanda_test - ERROR - Error importing directly: unindent does not match any outer indentation level (coffee_market.py, line 1310)
+2025-05-12 10:21:45,495 - foodpanda_test - ERROR - Error importing with importlib: unindent does not match any outer indentation level (coffee_market.py, line 1310)
+2025-05-12 10:22:33,577 - foodpanda_test - INFO - Successfully imported CoffeeMarketDataCollector directly
+2025-05-12 10:22:33,580 - foodpanda_test - INFO - Starting Foodpanda extraction test
+2025-05-12 10:22:33,585 - foodpanda_test - INFO - _is_coffee_product method found!
+2025-05-12 10:22:33,590 - foodpanda_test - INFO - Extracting data from Foodpanda (max 2 pages)
+2025-05-12 10:22:33,596 - src.data_collection.coffee_market - INFO - Extracting coffee data from Foodpanda
+2025-05-12 10:22:33,599 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 1 with URL: https://www.foodpanda.pk/groceries/pandamart/s/search/coffee
+2025-05-12 10:22:33,680 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/groceries/pandamart/s/search/coffee
+2025-05-12 10:22:33,761 - src.data_collection.coffee_market - WARNING - No product cards found on Foodpanda page 1 using selector: .dish-card
+2025-05-12 10:22:33,770 - src.data_collection.coffee_market - WARNING - Still no product cards found, trying generic selector
+2025-05-12 10:22:33,779 - src.data_collection.coffee_market - WARNING - Trying one more generic approach for Pandamart product grid
+2025-05-12 10:22:33,787 - src.data_collection.coffee_market - WARNING - No product cards found on Foodpanda page 1, stopping pagination
+2025-05-12 10:22:33,788 - src.data_collection.coffee_market - INFO - Total extracted 0 products from Foodpanda across 1 pages
+2025-05-12 10:22:33,788 - foodpanda_test - INFO - Successfully extracted 0 products
+2025-05-12 10:22:33,789 - foodpanda_test - WARNING - No products were extracted from Foodpanda!
