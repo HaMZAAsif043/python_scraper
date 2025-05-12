@@ -32,3 +32,128 @@
 2025-05-12 10:22:33,788 - src.data_collection.coffee_market - INFO - Total extracted 0 products from Foodpanda across 1 pages
 2025-05-12 10:22:33,788 - foodpanda_test - INFO - Successfully extracted 0 products
 2025-05-12 10:22:33,789 - foodpanda_test - WARNING - No products were extracted from Foodpanda!
+2025-05-12 10:48:45,716 - foodpanda_test - ERROR - Error importing directly: unexpected indent (coffee_market.py, line 1318)
+2025-05-12 10:48:45,792 - foodpanda_test - ERROR - Error importing with importlib: unexpected indent (coffee_market.py, line 1318)
+2025-05-12 10:55:54,152 - foodpanda_test - ERROR - Error importing directly: unindent does not match any outer indentation level (coffee_market.py, line 1316)
+2025-05-12 10:55:54,215 - foodpanda_test - ERROR - Error importing with importlib: unindent does not match any outer indentation level (coffee_market.py, line 1316)
+2025-05-12 10:56:45,798 - foodpanda_test - ERROR - Error importing directly: unexpected indent (coffee_market.py, line 1313)
+2025-05-12 10:56:45,873 - foodpanda_test - ERROR - Error importing with importlib: unexpected indent (coffee_market.py, line 1313)
+2025-05-12 10:57:39,335 - foodpanda_test - INFO - Successfully imported CoffeeMarketDataCollector directly
+2025-05-12 10:57:39,336 - foodpanda_test - INFO - Starting Foodpanda extraction test
+2025-05-12 10:57:39,338 - foodpanda_test - INFO - _is_coffee_product method found!
+2025-05-12 10:57:39,338 - foodpanda_test - INFO - Extracting data from Foodpanda (max 2 pages)
+2025-05-12 10:57:39,339 - src.data_collection.coffee_market - INFO - Extracting coffee data from Foodpanda
+2025-05-12 10:57:39,339 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 1 with URL: https://www.foodpanda.pk/groceries/pandamart/s/search/coffee
+2025-05-12 10:57:39,369 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/groceries/pandamart/s/search/coffee
+2025-05-12 10:57:39,440 - src.data_collection.coffee_market - WARNING - No product cards found on Foodpanda page 1, stopping pagination
+2025-05-12 10:57:39,440 - src.data_collection.coffee_market - INFO - Total extracted 0 products from Foodpanda across 1 pages
+2025-05-12 10:57:39,441 - foodpanda_test - INFO - Successfully extracted 0 products
+2025-05-12 10:57:39,441 - foodpanda_test - WARNING - No products were extracted from Foodpanda!
+2025-05-12 10:59:52,214 - foodpanda_test - INFO - Successfully imported CoffeeMarketDataCollector directly
+2025-05-12 10:59:52,215 - foodpanda_test - INFO - Starting Foodpanda extraction test
+2025-05-12 10:59:52,216 - foodpanda_test - INFO - _is_coffee_product method found!
+2025-05-12 10:59:52,216 - foodpanda_test - INFO - Extracting data from Foodpanda (max 2 pages)
+2025-05-12 10:59:52,217 - src.data_collection.coffee_market - INFO - Extracting coffee data from Foodpanda
+2025-05-12 10:59:52,217 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 1 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 10:59:52,218 - src.data_collection.coffee_market - INFO - Fetching content from https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee (using Selenium)
+2025-05-12 11:00:17,983 - src.data_collection.coffee_market - INFO - Cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 11:00:21,068 - src.data_collection.coffee_market - INFO - Found 25 products with selector: ul.product-grid > li
+2025-05-12 11:00:21,069 - src.data_collection.coffee_market - INFO - Processing 25 product cards from Foodpanda page 1
+2025-05-12 11:00:21,105 - src.data_collection.coffee_market - INFO - Extracted 22 products from Foodpanda page 1
+2025-05-12 11:00:21,106 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 2 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2
+2025-05-12 11:00:21,107 - src.data_collection.coffee_market - INFO - Fetching content from https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2 (using Selenium)
+2025-05-12 11:00:50,858 - src.data_collection.coffee_market - INFO - Cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2
+2025-05-12 11:00:54,873 - src.data_collection.coffee_market - WARNING - No product cards found on Foodpanda page 2, stopping pagination
+2025-05-12 11:00:54,948 - src.data_collection.coffee_market - INFO - Total extracted 22 products from Foodpanda across 2 pages
+2025-05-12 11:00:54,990 - foodpanda_test - INFO - Successfully extracted 22 products
+2025-05-12 11:00:54,998 - foodpanda_test - INFO - Saved sample results to foodpanda_results_20250512_110054.json
+2025-05-12 11:00:55,010 - foodpanda_test - INFO - 
+Sample Products:
+2025-05-12 11:00:55,012 - foodpanda_test - INFO - 
+Product 1:
+2025-05-12 11:00:55,013 - foodpanda_test - INFO -   Name: Nestle Nescafe Classic Coffee Jar 50g
+2025-05-12 11:00:55,018 - foodpanda_test - INFO -   Price: 1100.0
+2025-05-12 11:00:55,020 - foodpanda_test - INFO -   Brand: Nescafe
+2025-05-12 11:00:55,022 - foodpanda_test - INFO -   Type: instant
+2025-05-12 11:00:55,028 - foodpanda_test - INFO -   Image URL: https://images.deliveryhero.io/image/darkstores/nv...
+2025-05-12 11:00:55,029 - foodpanda_test - INFO - 
+Product 2:
+2025-05-12 11:00:55,031 - foodpanda_test - INFO -   Name: Nestle Nescafe 3 in 1 Coffee Sachet 20g
+2025-05-12 11:00:55,031 - foodpanda_test - INFO -   Price: 60.0
+2025-05-12 11:00:55,036 - foodpanda_test - INFO -   Brand: Nescafe
+2025-05-12 11:00:55,038 - foodpanda_test - INFO -   Type: coffee mix
+2025-05-12 11:00:55,039 - foodpanda_test - INFO -   Image URL: https://images.deliveryhero.io/image/darkstores/nv...
+2025-05-12 11:00:55,040 - foodpanda_test - INFO - 
+Product 3:
+2025-05-12 11:00:55,042 - foodpanda_test - INFO -   Name: Nestle Nescafe Classic Coffee Jar 100g
+2025-05-12 11:00:55,044 - foodpanda_test - INFO -   Price: 2090.0
+2025-05-12 11:00:55,057 - foodpanda_test - INFO -   Brand: Nescafe
+2025-05-12 11:00:55,062 - foodpanda_test - INFO -   Type: instant
+2025-05-12 11:00:55,078 - foodpanda_test - INFO -   Image URL: https://images.deliveryhero.io/image/darkstores/nv...
+2025-05-12 11:00:55,079 - foodpanda_test - INFO - 
+Product 4:
+2025-05-12 11:00:55,090 - foodpanda_test - INFO -   Name: Nescafe Classic 25g
+2025-05-12 11:00:55,093 - foodpanda_test - INFO -   Price: 450.0
+2025-05-12 11:00:55,095 - foodpanda_test - INFO -   Brand: Nescafe
+2025-05-12 11:00:55,096 - foodpanda_test - INFO -   Type: instant
+2025-05-12 11:00:55,098 - foodpanda_test - INFO -   Image URL: https://images.deliveryhero.io/image/darkstores/nv...
+2025-05-12 11:00:55,107 - foodpanda_test - INFO - 
+Product 5:
+2025-05-12 11:00:55,111 - foodpanda_test - INFO -   Name: Nescafe Coffee Gold 47.5Gm Imp
+2025-05-12 11:00:55,111 - foodpanda_test - INFO -   Price: 1200.0
+2025-05-12 11:00:55,112 - foodpanda_test - INFO -   Brand: Nescafe
+2025-05-12 11:00:55,122 - foodpanda_test - INFO -   Type: instant
+2025-05-12 11:00:55,126 - foodpanda_test - INFO -   Image URL: https://images.deliveryhero.io/image/nv/Pakistan/I...
+2025-05-12 11:18:24,191 - foodpanda_test - INFO - Successfully imported CoffeeMarketDataCollector directly
+2025-05-12 11:18:24,192 - foodpanda_test - INFO - Starting Foodpanda extraction test
+2025-05-12 11:18:24,194 - foodpanda_test - INFO - _is_coffee_product method found!
+2025-05-12 11:18:24,195 - foodpanda_test - INFO - Extracting data from Foodpanda (max 2 pages)
+2025-05-12 11:18:24,195 - src.data_collection.coffee_market - INFO - Extracting coffee data from Foodpanda
+2025-05-12 11:18:24,196 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 1 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 11:18:24,287 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 11:18:24,370 - src.data_collection.coffee_market - INFO - Found 25 products with selector: ul.product-grid > li
+2025-05-12 11:18:24,375 - src.data_collection.coffee_market - INFO - Processing 25 product cards from Foodpanda page 1
+2025-05-12 11:18:24,412 - src.data_collection.coffee_market - INFO - Extracted 22 products from Foodpanda page 1
+2025-05-12 11:18:24,416 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 2 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2
+2025-05-12 11:18:24,420 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2
+2025-05-12 11:18:24,443 - src.data_collection.coffee_market - WARNING - No product cards found on Foodpanda page 2, stopping pagination
+2025-05-12 11:18:24,446 - src.data_collection.coffee_market - INFO - Total extracted 22 products from Foodpanda across 2 pages
+2025-05-12 11:18:24,452 - foodpanda_test - INFO - Successfully extracted 22 products
+2025-05-12 11:18:24,481 - foodpanda_test - INFO - Saved sample results to foodpanda_results_20250512_111824.json
+2025-05-12 11:18:24,498 - foodpanda_test - INFO - 
+Sample Products:
+2025-05-12 11:18:24,502 - foodpanda_test - INFO - 
+Product 1:
+2025-05-12 11:18:24,503 - foodpanda_test - INFO -   Name: Nestle Nescafe Classic Coffee Jar 50g
+2025-05-12 11:18:24,515 - foodpanda_test - INFO -   Price: 1100.0
+2025-05-12 11:18:24,518 - foodpanda_test - INFO -   Brand: Nescafe
+2025-05-12 11:18:24,520 - foodpanda_test - INFO -   Type: instant
+2025-05-12 11:18:24,521 - foodpanda_test - INFO -   Image URL: https://images.deliveryhero.io/image/darkstores/nv...
+2025-05-12 11:18:24,530 - foodpanda_test - INFO - 
+Product 2:
+2025-05-12 11:18:24,531 - foodpanda_test - INFO -   Name: Nestle Nescafe 3 in 1 Coffee Sachet 20g
+2025-05-12 11:18:24,535 - foodpanda_test - INFO -   Price: 60.0
+2025-05-12 11:18:24,535 - foodpanda_test - INFO -   Brand: Nescafe
+2025-05-12 11:18:24,536 - foodpanda_test - INFO -   Type: coffee mix
+2025-05-12 11:18:24,537 - foodpanda_test - INFO -   Image URL: https://images.deliveryhero.io/image/darkstores/nv...
+2025-05-12 11:18:24,537 - foodpanda_test - INFO - 
+Product 3:
+2025-05-12 11:18:24,543 - foodpanda_test - INFO -   Name: Nestle Nescafe Classic Coffee Jar 100g
+2025-05-12 11:18:24,544 - foodpanda_test - INFO -   Price: 2090.0
+2025-05-12 11:18:24,545 - foodpanda_test - INFO -   Brand: Nescafe
+2025-05-12 11:18:24,546 - foodpanda_test - INFO -   Type: instant
+2025-05-12 11:18:24,547 - foodpanda_test - INFO -   Image URL: https://images.deliveryhero.io/image/darkstores/nv...
+2025-05-12 11:18:24,548 - foodpanda_test - INFO - 
+Product 4:
+2025-05-12 11:18:24,550 - foodpanda_test - INFO -   Name: Nescafe Classic 25g
+2025-05-12 11:18:24,560 - foodpanda_test - INFO -   Price: 450.0
+2025-05-12 11:18:24,561 - foodpanda_test - INFO -   Brand: Nescafe
+2025-05-12 11:18:24,562 - foodpanda_test - INFO -   Type: instant
+2025-05-12 11:18:24,563 - foodpanda_test - INFO -   Image URL: https://images.deliveryhero.io/image/darkstores/nv...
+2025-05-12 11:18:24,564 - foodpanda_test - INFO - 
+Product 5:
+2025-05-12 11:18:24,568 - foodpanda_test - INFO -   Name: Nescafe Coffee Gold 47.5Gm Imp
+2025-05-12 11:18:24,569 - foodpanda_test - INFO -   Price: 1200.0
+2025-05-12 11:18:24,570 - foodpanda_test - INFO -   Brand: Nescafe
+2025-05-12 11:18:24,571 - foodpanda_test - INFO -   Type: instant
+2025-05-12 11:18:24,575 - foodpanda_test - INFO -   Image URL: https://images.deliveryhero.io/image/nv/Pakistan/I...

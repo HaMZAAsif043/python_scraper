@@ -1,0 +1,138 @@
+2025-05-12 12:15:41,585 - foodpanda_graphql_extractor - INFO - Starting discovery of Pandamart vendors across cities
+2025-05-12 12:21:48,078 - foodpanda_graphql_extractor - INFO - Starting discovery of Pandamart vendors across cities
+2025-05-12 12:22:01,922 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Karachi...
+2025-05-12 12:22:13,019 - foodpanda_graphql_extractor - ERROR - Error in Karachi: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:22:13,020 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Lahore...
+2025-05-12 12:22:24,143 - foodpanda_graphql_extractor - ERROR - Error in Lahore: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:22:24,153 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Islamabad...
+2025-05-12 12:22:35,279 - foodpanda_graphql_extractor - ERROR - Error in Islamabad: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:22:35,307 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Rawalpindi...
+2025-05-12 12:22:46,364 - foodpanda_graphql_extractor - ERROR - Error in Rawalpindi: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:22:46,366 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Faisalabad...
+2025-05-12 12:22:57,400 - foodpanda_graphql_extractor - ERROR - Error in Faisalabad: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:22:57,400 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Multan...
+2025-05-12 12:23:08,448 - foodpanda_graphql_extractor - ERROR - Error in Multan: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:23:08,449 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Peshawar...
+2025-05-12 12:23:19,499 - foodpanda_graphql_extractor - ERROR - Error in Peshawar: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:23:19,500 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Hyderabad...
+2025-05-12 12:23:25,771 - foodpanda_graphql_extractor - ERROR - Error in Hyderabad: Page.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:23:25,871 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Gujranwala...
+2025-05-12 12:23:25,877 - asyncio - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - waiting for locator("[data-testid=\\"location-panel-change-location\\"]")\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("[data-testid=\"location-panel-change-location\"]")
+
+2025-05-12 12:23:25,994 - foodpanda_graphql_extractor - ERROR - Error in Gujranwala: Page.click: Target page, context or browser has been closed
+2025-05-12 12:23:25,995 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Sialkot...
+2025-05-12 12:23:26,030 - foodpanda_graphql_extractor - ERROR - Error in Sialkot: Page.click: Target page, context or browser has been closed
+2025-05-12 12:23:26,040 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Quetta...
+2025-05-12 12:23:26,063 - foodpanda_graphql_extractor - ERROR - Error in Quetta: Page.click: Target page, context or browser has been closed
+2025-05-12 12:23:26,071 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Abbottabad...
+2025-05-12 12:23:26,098 - foodpanda_graphql_extractor - ERROR - Error in Abbottabad: Page.click: Target page, context or browser has been closed
+2025-05-12 12:23:26,104 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Sukkur...
+2025-05-12 12:23:26,139 - foodpanda_graphql_extractor - ERROR - Error in Sukkur: Page.click: Target page, context or browser has been closed
+2025-05-12 12:23:26,140 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Larkana...
+2025-05-12 12:23:26,165 - foodpanda_graphql_extractor - ERROR - Error in Larkana: Page.click: Target page, context or browser has been closed
+2025-05-12 12:23:26,166 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Sheikhupura...
+2025-05-12 12:23:26,190 - foodpanda_graphql_extractor - ERROR - Error in Sheikhupura: Page.click: Target page, context or browser has been closed
+2025-05-12 12:23:47,408 - foodpanda_graphql_extractor - INFO - Starting discovery of Pandamart vendors across cities
+2025-05-12 12:24:13,572 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Karachi...
+2025-05-12 12:24:24,723 - foodpanda_graphql_extractor - ERROR - Error in Karachi: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:24:24,724 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Lahore...
+2025-05-12 12:24:35,775 - foodpanda_graphql_extractor - ERROR - Error in Lahore: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:24:35,776 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Islamabad...
+2025-05-12 12:24:46,800 - foodpanda_graphql_extractor - ERROR - Error in Islamabad: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:24:46,800 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Rawalpindi...
+2025-05-12 12:24:57,832 - foodpanda_graphql_extractor - ERROR - Error in Rawalpindi: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:24:57,833 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Faisalabad...
+2025-05-12 12:25:08,906 - foodpanda_graphql_extractor - ERROR - Error in Faisalabad: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:25:08,907 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Multan...
+2025-05-12 12:25:19,944 - foodpanda_graphql_extractor - ERROR - Error in Multan: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:25:19,944 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Peshawar...
+2025-05-12 12:25:30,994 - foodpanda_graphql_extractor - ERROR - Error in Peshawar: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:25:30,995 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Hyderabad...
+2025-05-12 12:25:42,047 - foodpanda_graphql_extractor - ERROR - Error in Hyderabad: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:25:42,048 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Gujranwala...
+2025-05-12 12:25:53,076 - foodpanda_graphql_extractor - ERROR - Error in Gujranwala: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:25:53,077 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Sialkot...
+2025-05-12 12:26:04,128 - foodpanda_graphql_extractor - ERROR - Error in Sialkot: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:26:04,129 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Quetta...
+2025-05-12 12:26:15,174 - foodpanda_graphql_extractor - ERROR - Error in Quetta: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:26:15,179 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Abbottabad...
+2025-05-12 12:26:26,222 - foodpanda_graphql_extractor - ERROR - Error in Abbottabad: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:26:26,223 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Sukkur...
+2025-05-12 12:26:37,282 - foodpanda_graphql_extractor - ERROR - Error in Sukkur: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:26:37,287 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Larkana...
+2025-05-12 12:26:48,334 - foodpanda_graphql_extractor - ERROR - Error in Larkana: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+
+2025-05-12 12:26:48,335 - foodpanda_graphql_extractor - INFO - Searching for Pandamart in Sheikhupura...
+2025-05-12 12:26:59,383 - foodpanda_graphql_extractor - ERROR - Error in Sheikhupura: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Change\")")
+

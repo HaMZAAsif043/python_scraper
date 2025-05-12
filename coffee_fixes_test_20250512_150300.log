@@ -1,0 +1,9 @@
+2025-05-12 15:03:00,803 - __main__ - INFO - Starting tests for coffee market data collector fixes...
+2025-05-12 15:03:10,132 - __main__ - INFO - Testing Daraz price extraction and pagination...
+2025-05-12 15:03:10,134 - src.data_collection.coffee_market - INFO - Extracting coffee data from Daraz with improved price extraction and pagination
+2025-05-12 15:03:10,134 - src.data_collection.coffee_market - INFO - Processing Daraz page 1/3 with URL: https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 15:03:10,541 - src.data_collection.coffee_market - INFO - Cache expired for https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 15:03:10,542 - src.data_collection.coffee_market - INFO - Fetching content from https://www.daraz.pk/catalog/?q=coffee (using Selenium)
+2025-05-12 15:03:29,439 - src.data_collection.coffee_market - INFO - Cached content for https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 15:03:32,261 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 1
+2025-05-12 15:03:32,394 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 1

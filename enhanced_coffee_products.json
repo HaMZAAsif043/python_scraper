@@ -1,0 +1,376 @@
+[
+  {
+    "id": "8288659",
+    "scraped_at": "2025-05-12T11:25:33.471884",
+    "name": "Nestle Nescafe Classic Coffee Jar 50g",
+    "price": 1100.0,
+    "image_url": "https://images.deliveryhero.io/image/darkstores/nv-global-catalog/pk/60cd2350-e42e-4090-9ebb-e8c726400171.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/8288659",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50.0g"
+    },
+    "price_tier": "medium"
+  },
+  {
+    "id": "8301708",
+    "scraped_at": "2025-05-12T11:25:33.473846",
+    "name": "Nestle Nescafe 3 in 1 Coffee Sachet 20g",
+    "price": 60.0,
+    "image_url": "https://images.deliveryhero.io/image/darkstores/nv-global-catalog/pk/4a9120fa-8111-43f6-bea2-f65f054ba257.png?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/8301708",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "mix",
+    "packaging": {
+      "value": 20.0,
+      "unit": "g",
+      "display": "20.0g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "8305025",
+    "scraped_at": "2025-05-12T11:25:33.474742",
+    "name": "Nestle Nescafe Classic Coffee Jar 100g",
+    "price": 2090.0,
+    "image_url": "https://images.deliveryhero.io/image/darkstores/nv-global-catalog/pk/7013b80e-136d-4f6f-8f53-8f6f1a8dee37.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/8305025",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100.0g"
+    },
+    "price_tier": "high"
+  },
+  {
+    "id": "67661756",
+    "scraped_at": "2025-05-12T11:25:33.475673",
+    "name": "Nescafe Classic 25g",
+    "price": 450.0,
+    "image_url": "https://images.deliveryhero.io/image/darkstores/nv-global-catalog/pk/d4547669-b209-47db-8770-48622847e28a.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/67661756",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 25.0,
+      "unit": "g",
+      "display": "25.0g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "8289669",
+    "scraped_at": "2025-05-12T11:25:33.477038",
+    "name": "Nescafe Coffee Gold 47.5Gm Imp",
+    "price": 1200.0,
+    "image_url": "https://images.deliveryhero.io/image/nv/Pakistan/Imported-Images-Cleanup-PK/46204837-0.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/8289669",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 47.5,
+      "unit": "g",
+      "display": "47.5g"
+    },
+    "price_tier": "medium"
+  },
+  {
+    "id": "61272001",
+    "scraped_at": "2025-05-12T11:25:33.478042",
+    "name": "Nescafe Pet Bottle Spanish Latte 220ml",
+    "price": 171.0,
+    "image_url": "https://images.deliveryhero.io/image/nv/Pakistan/Luxury-Choice/8961008222820.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/61272001",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "other",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220.0ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "8286915",
+    "scraped_at": "2025-05-12T11:25:33.478933",
+    "name": "Nescafe Coffee Pet Bottle Chilled Latte 220ml",
+    "price": 152.0,
+    "image_url": "https://images.deliveryhero.io/image/darsktores-pk/8961008217673.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/8286915",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "other",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220.0ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "8312166",
+    "scraped_at": "2025-05-12T11:25:33.479867",
+    "name": "Nescafe Coffee TetraPack Chilled Latte 200ml",
+    "price": 105.0,
+    "image_url": "https://images.deliveryhero.io/image/darsktores-pk/H5320K%201.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/8312166",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "other",
+    "packaging": {
+      "value": 200.0,
+      "unit": "ml",
+      "display": "200.0ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "8288026",
+    "scraped_at": "2025-05-12T11:25:33.480775",
+    "name": "Nescafe Coffee TetraPack Chilled Mocha 200ml",
+    "price": 105.0,
+    "image_url": "https://images.deliveryhero.io/image/darsktores-pk/8961008216423.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/8288026",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "other",
+    "packaging": {
+      "value": 200.0,
+      "unit": "ml",
+      "display": "200.0ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "14107819",
+    "scraped_at": "2025-05-12T11:25:33.481744",
+    "name": "Nescafe Coffee Pet Bottle Chilled Hazelnut 220ml",
+    "price": 152.0,
+    "image_url": "https://images.deliveryhero.io/image/darsktores-pk/hazelnut.png?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/14107819",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "other",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220.0ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "61271997",
+    "scraped_at": "2025-05-12T11:25:33.487653",
+    "name": "Nescafe Pet Bottle White Chocolate Mocha 220ml",
+    "price": 171.0,
+    "image_url": "https://images.deliveryhero.io/image/darsktores-pk/8961008222813.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/61271997",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "other",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220.0ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "8337506",
+    "scraped_at": "2025-05-12T11:25:33.488831",
+    "name": "Nescafe Pet Bottle Mocha 220ml",
+    "price": 152.0,
+    "image_url": "https://images.deliveryhero.io/image/darsktores-pk/NZWLTG.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/8337506",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "other",
+    "packaging": {
+      "value": 220.0,
+      "unit": "ml",
+      "display": "220.0ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "8318646",
+    "scraped_at": "2025-05-12T11:25:33.489641",
+    "name": "Davidoff Espresso 57 Instant Coffee 100g",
+    "price": 2690.0,
+    "image_url": "https://images.deliveryhero.io/image/darsktores-pk/PGX8IJ-1.png?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/8318646",
+    "source": "foodpanda.pk",
+    "brand": "Davidoff",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100.0g"
+    },
+    "price_tier": "high"
+  },
+  {
+    "id": "8295021",
+    "scraped_at": "2025-05-12T11:25:33.490743",
+    "name": "Nescafe Coffee Gold 190Gm Imp",
+    "price": 3452.0,
+    "image_url": "https://images.deliveryhero.io/image/darsktores-pk/4600680000640.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/8295021",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 190.0,
+      "unit": "g",
+      "display": "190.0g"
+    },
+    "price_tier": "high"
+  },
+  {
+    "id": "139478744",
+    "scraped_at": "2025-05-12T11:25:33.491554",
+    "name": "Innovative Haven Coffee Cookies Pouch Pack (Rs 50) 440g",
+    "price": 500.0,
+    "image_url": "https://images.deliveryhero.io/image/darkstores/nv-global-catalog/pk/a7f21f28-dbc4-4b43-946f-be59a3ada031.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/139478744",
+    "source": "foodpanda.pk",
+    "brand": "Innovative",
+    "type": "other",
+    "packaging": {
+      "value": 440.0,
+      "unit": "g",
+      "display": "440.0g"
+    },
+    "price_tier": "medium"
+  },
+  {
+    "id": "139117589",
+    "scraped_at": "2025-05-12T11:25:33.494277",
+    "name": "Nescafe Original Coffee Can 240ml",
+    "price": 450.0,
+    "image_url": "https://images.deliveryhero.io/image/product-information-management/66bd69a4b0ef38d56d66b11d.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/139117589",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "other",
+    "packaging": {
+      "value": 240.0,
+      "unit": "ml",
+      "display": "240.0ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "139117562",
+    "scraped_at": "2025-05-12T11:25:33.495147",
+    "name": "Nescafe Mocha Can 240ml",
+    "price": 450.0,
+    "image_url": "https://images.deliveryhero.io/image/product-information-management/66bd69aab0ef38d56d66b12b.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/139117562",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "other",
+    "packaging": {
+      "value": 240.0,
+      "unit": "ml",
+      "display": "240.0ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "12691946",
+    "scraped_at": "2025-05-12T11:25:33.496186",
+    "name": "Meaoon Cat Litter Coffee 5 Ltr (Imported)",
+    "price": 999.0,
+    "image_url": "https://images.deliveryhero.io/image/darsktores-pk/6952054901571.JPG?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/12691946",
+    "source": "foodpanda.pk",
+    "brand": "Meaoon",
+    "type": "other",
+    "packaging": {
+      "value": 5.0,
+      "unit": "l",
+      "display": "5.0l"
+    },
+    "price_tier": "medium"
+  },
+  {
+    "id": "139263958",
+    "scraped_at": "2025-05-12T11:25:33.497002",
+    "name": "Nescafe Drink Tin Kopi-O 240ml",
+    "price": 449.7,
+    "image_url": "https://images.deliveryhero.io/image/darkstores/nv-global-catalog/pk/9499c98c-c2d5-483a-a5b3-dba85a6b4174.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/139263958",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "other",
+    "packaging": {
+      "value": 240.0,
+      "unit": "ml",
+      "display": "240.0ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "139117555",
+    "scraped_at": "2025-05-12T11:25:33.497977",
+    "name": "Nescafe Milk Coffee Latte Low Fat Can 240ml",
+    "price": 450.0,
+    "image_url": "https://images.deliveryhero.io/image/product-information-management/66bd69a5b0ef38d56d66b121.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/139117555",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "other",
+    "packaging": {
+      "value": 240.0,
+      "unit": "ml",
+      "display": "240.0ml"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "16653711",
+    "scraped_at": "2025-05-12T11:25:33.500458",
+    "name": "Reload Coffee & Almonds Granola Bar 40g",
+    "price": 180.0,
+    "image_url": "https://images.deliveryhero.io/image/darsktores-pk/Floating%20Bar%20-%20CO-A%20Transperent.png?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/16653711",
+    "source": "foodpanda.pk",
+    "brand": "Reload",
+    "type": "other",
+    "packaging": {
+      "value": 40.0,
+      "unit": "g",
+      "display": "40.0g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "139263965",
+    "scraped_at": "2025-05-12T11:25:33.503154",
+    "name": "Nescafe Drink Tin Tarik 240ml",
+    "price": 450.0,
+    "image_url": "https://images.deliveryhero.io/image/darkstores/nv-global-catalog/pk/12cbfbf9-ffa6-47a2-8fa5-62aca8c6144c.jpg?height=176",
+    "product_url": "https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/product/139263965",
+    "source": "foodpanda.pk",
+    "brand": "Nescafe",
+    "type": "other",
+    "packaging": {
+      "value": 240.0,
+      "unit": "ml",
+      "display": "240.0ml"
+    },
+    "price_tier": "low"
+  }
+]

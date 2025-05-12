@@ -1,0 +1,92 @@
+[
+  {
+    "id": "foodpanda_1747029621.071071_0",
+    "scraped_at": "2025-05-12T11:00:21.071090",
+    "name": "Nestle Nescafe Classic Coffee Jar 50g",
+    "price": 1100.0,
+    "image_url": "https://images.deliveryhero.io/image/darkstores/nv-global-catalog/pk/60cd2350-e42e-4090-9ebb-e8c726400171.jpg?height=176",
+    "source": "foodpanda.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 50.0,
+      "unit": "g",
+      "display": "50g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "id": "foodpanda_1747029621.075372_1",
+    "scraped_at": "2025-05-12T11:00:21.076277",
+    "name": "Nestle Nescafe 3 in 1 Coffee Sachet 20g",
+    "price": 60.0,
+    "image_url": "https://images.deliveryhero.io/image/darkstores/nv-global-catalog/pk/4a9120fa-8111-43f6-bea2-f65f054ba257.png?height=176",
+    "source": "foodpanda.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "coffee mix",
+    "packaging": {
+      "value": 20.0,
+      "unit": "g",
+      "display": "20g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "foodpanda_1747029621.081331_2",
+    "scraped_at": "2025-05-12T11:00:21.081343",
+    "name": "Nestle Nescafe Classic Coffee Jar 100g",
+    "price": 2090.0,
+    "image_url": "https://images.deliveryhero.io/image/darkstores/nv-global-catalog/pk/7013b80e-136d-4f6f-8f53-8f6f1a8dee37.jpg?height=176",
+    "source": "foodpanda.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 100.0,
+      "unit": "g",
+      "display": "100g"
+    },
+    "price_tier": "mid"
+  },
+  {
+    "id": "foodpanda_1747029621.082101_3",
+    "scraped_at": "2025-05-12T11:00:21.082110",
+    "name": "Nescafe Classic 25g",
+    "price": 450.0,
+    "image_url": "https://images.deliveryhero.io/image/darkstores/nv-global-catalog/pk/d4547669-b209-47db-8770-48622847e28a.jpg?height=176",
+    "source": "foodpanda.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 25.0,
+      "unit": "g",
+      "display": "25g"
+    },
+    "price_tier": "low"
+  },
+  {
+    "id": "foodpanda_1747029621.082839_4",
+    "scraped_at": "2025-05-12T11:00:21.082848",
+    "name": "Nescafe Coffee Gold 47.5Gm Imp",
+    "price": 1200.0,
+    "image_url": "https://images.deliveryhero.io/image/nv/Pakistan/Imported-Images-Cleanup-PK/46204837-0.jpg?height=176",
+    "source": "foodpanda.pk",
+    "rating": 0,
+    "reviews_count": 0,
+    "brand": "Nescafe",
+    "type": "instant",
+    "packaging": {
+      "value": 0,
+      "unit": "unknown",
+      "display": "unknown"
+    },
+    "price_tier": "mid"
+  }
+]

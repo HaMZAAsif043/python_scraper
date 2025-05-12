@@ -1829,3 +1829,867 @@ AttributeError: 'CoffeeMarketDataCollector' object has no attribute 'extract_alf
 2025-05-11 21:10:03,458 - __main__ - INFO - - csv_files (consolidated): data/processed\coffee_market_all_categories_20250511_210959.xlsx
 2025-05-11 21:10:03,460 - __main__ - INFO - Collection finished at 2025-05-11 21:10:03
 2025-05-11 21:10:03,461 - __main__ - INFO - Total duration: 0:03:17.225062
+2025-05-12 11:27:23,493 - __main__ - INFO - Starting coffee market data collection
+2025-05-12 11:27:23,494 - __main__ - INFO - Collection started at 2025-05-12 11:27:23
+2025-05-12 11:27:23,497 - src.data_collection.coffee_market - INFO - Starting coffee market data collection
+2025-05-12 11:27:23,502 - src.data_collection.coffee_market - INFO - Processing site: daraz
+2025-05-12 11:27:23,502 - src.data_collection.coffee_market - INFO - Extracting coffee data from Daraz
+2025-05-12 11:27:23,503 - src.data_collection.coffee_market - INFO - Processing Daraz page 1 with URL: https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 11:27:23,902 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 11:27:24,112 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 1
+2025-05-12 11:27:24,243 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 1
+2025-05-12 11:27:24,244 - src.data_collection.coffee_market - INFO - Processing Daraz page 2 with URL: https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 11:27:24,622 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 11:27:24,660 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 2
+2025-05-12 11:27:24,780 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 2
+2025-05-12 11:27:24,785 - src.data_collection.coffee_market - INFO - Processing Daraz page 3 with URL: https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 11:27:25,176 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 11:27:25,246 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 3
+2025-05-12 11:27:25,352 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 3
+2025-05-12 11:27:25,353 - src.data_collection.coffee_market - INFO - Processing Daraz page 4 with URL: https://www.daraz.pk/catalog/?q=coffee&page=4
+2025-05-12 11:27:25,861 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=4
+2025-05-12 11:27:25,987 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 4
+2025-05-12 11:27:26,256 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 4
+2025-05-12 11:27:26,258 - src.data_collection.coffee_market - INFO - Processing Daraz page 5 with URL: https://www.daraz.pk/catalog/?q=coffee&page=5
+2025-05-12 11:27:26,760 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=5
+2025-05-12 11:27:26,805 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 5
+2025-05-12 11:27:26,908 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 5
+2025-05-12 11:27:26,909 - src.data_collection.coffee_market - INFO - Total extracted 200 products from Daraz across 5 pages
+2025-05-12 11:27:26,909 - src.data_collection.coffee_market - INFO - Extracted 200 products from daraz in 3.41 seconds
+2025-05-12 11:27:26,910 - src.data_collection.coffee_market - INFO - Processing site: alfatah
+2025-05-12 11:27:26,910 - src.data_collection.coffee_market - INFO - Extracting coffee data from Alfatah
+2025-05-12 11:27:26,911 - src.data_collection.coffee_market - INFO - Processing Alfatah page 1 with URL: https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last
+2025-05-12 11:27:27,826 - src.data_collection.coffee_market - INFO - Using cached content for https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last
+2025-05-12 11:27:28,301 - src.data_collection.coffee_market - WARNING - No product cards found on Alfatah page 1 using selector: .product-card.card-border
+2025-05-12 11:27:28,302 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .col-6.col-sm-4.col-md-3.col-lg-2 .product-card
+2025-05-12 11:27:28,405 - src.data_collection.coffee_market - INFO - Trying alternative product selector: #shopify_section_template__22762959470880__main_content .product-card
+2025-05-12 11:27:28,506 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .product-grid__item
+2025-05-12 11:27:28,605 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .card
+2025-05-12 11:27:28,702 - src.data_collection.coffee_market - WARNING - Failed to find any products with all selectors on page 1
+2025-05-12 11:27:28,703 - src.data_collection.coffee_market - INFO - Processing Alfatah page 2 with URL: https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=2
+2025-05-12 11:27:29,923 - src.data_collection.coffee_market - INFO - Using cached content for https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=2
+2025-05-12 11:27:30,091 - src.data_collection.coffee_market - INFO - Found 228 products using primary selector on page 2
+2025-05-12 11:27:30,092 - src.data_collection.coffee_market - INFO - Processing 228 product cards from Alfatah page 2
+2025-05-12 11:27:30,257 - src.data_collection.coffee_market - INFO - Extracted 228 products from Alfatah page 2
+2025-05-12 11:27:30,257 - src.data_collection.coffee_market - INFO - Processing Alfatah page 3 with URL: https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=3
+2025-05-12 11:27:32,043 - src.data_collection.coffee_market - INFO - Using cached content for https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=3
+2025-05-12 11:27:32,380 - src.data_collection.coffee_market - INFO - Found 229 products using primary selector on page 3
+2025-05-12 11:27:32,381 - src.data_collection.coffee_market - INFO - Processing 229 product cards from Alfatah page 3
+2025-05-12 11:27:32,613 - src.data_collection.coffee_market - INFO - Extracted 1 products from Alfatah page 3
+2025-05-12 11:27:32,614 - src.data_collection.coffee_market - INFO - Processing Alfatah page 4 with URL: https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=4
+2025-05-12 11:27:34,194 - src.data_collection.coffee_market - INFO - Using cached content for https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=4
+2025-05-12 11:27:34,395 - src.data_collection.coffee_market - INFO - Found 229 products using primary selector on page 4
+2025-05-12 11:27:34,396 - src.data_collection.coffee_market - INFO - Processing 229 product cards from Alfatah page 4
+2025-05-12 11:27:34,579 - src.data_collection.coffee_market - INFO - Extracted 0 products from Alfatah page 4
+2025-05-12 11:27:34,579 - src.data_collection.coffee_market - INFO - No products found on page 4, stopping pagination
+2025-05-12 11:27:34,580 - src.data_collection.coffee_market - INFO - Total extracted 229 products from Alfatah across 4 pages
+2025-05-12 11:27:34,580 - src.data_collection.coffee_market - INFO - Extracted 229 products from alfatah in 7.67 seconds
+2025-05-12 11:27:34,581 - src.data_collection.coffee_market - INFO - Processing site: naheed
+2025-05-12 11:27:34,581 - src.data_collection.coffee_market - INFO - Extracting coffee data from Naheed
+2025-05-12 11:27:34,589 - src.data_collection.coffee_market - INFO - Processing Naheed page 1 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee
+2025-05-12 11:27:35,792 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee
+2025-05-12 11:27:36,079 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 1 with primary selector
+2025-05-12 11:27:36,144 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 1 using selector: li.item.product.product-item
+2025-05-12 11:27:36,145 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 11:27:36,225 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 11:27:36,226 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 1
+2025-05-12 11:27:36,292 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 1
+2025-05-12 11:27:36,293 - src.data_collection.coffee_market - INFO - Processing Naheed page 2 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=2
+2025-05-12 11:27:37,659 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=2
+2025-05-12 11:27:37,660 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 2 with primary selector
+2025-05-12 11:27:37,845 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 2 using selector: li.item.product.product-item
+2025-05-12 11:27:37,845 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 11:27:37,936 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 11:27:37,937 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 2
+2025-05-12 11:27:38,015 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 2
+2025-05-12 11:27:38,019 - src.data_collection.coffee_market - INFO - Processing Naheed page 3 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=3
+2025-05-12 11:27:38,743 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=3
+2025-05-12 11:27:38,744 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 3 with primary selector
+2025-05-12 11:27:38,810 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 3 using selector: li.item.product.product-item
+2025-05-12 11:27:38,811 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 11:27:38,862 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 11:27:38,863 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 3
+2025-05-12 11:27:38,927 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 3
+2025-05-12 11:27:38,928 - src.data_collection.coffee_market - INFO - Processing Naheed page 4 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=4
+2025-05-12 11:27:39,578 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=4
+2025-05-12 11:27:39,579 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 4 with primary selector
+2025-05-12 11:27:39,674 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 4 using selector: li.item.product.product-item
+2025-05-12 11:27:39,675 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 11:27:39,727 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 11:27:39,728 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 4
+2025-05-12 11:27:39,798 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 4
+2025-05-12 11:27:39,798 - src.data_collection.coffee_market - INFO - Processing Naheed page 5 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=5
+2025-05-12 11:27:40,479 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=5
+2025-05-12 11:27:40,479 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 5 with primary selector
+2025-05-12 11:27:40,581 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 5 using selector: li.item.product.product-item
+2025-05-12 11:27:40,581 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 11:27:40,694 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 11:27:40,695 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 5
+2025-05-12 11:27:40,773 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 5
+2025-05-12 11:27:40,775 - src.data_collection.coffee_market - INFO - Total extracted 180 products from Naheed across 5 pages
+2025-05-12 11:27:40,776 - src.data_collection.coffee_market - INFO - Extracted 180 products from naheed in 6.20 seconds
+2025-05-12 11:27:40,777 - src.data_collection.coffee_market - INFO - Processing site: metro
+2025-05-12 11:27:40,777 - src.data_collection.coffee_market - INFO - Extracting coffee data from Metro Online
+2025-05-12 11:27:40,778 - src.data_collection.coffee_market - INFO - Processing Metro page 1 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true
+2025-05-12 11:27:41,132 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true
+2025-05-12 11:27:41,365 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 1 using selector: .product-item
+2025-05-12 11:27:41,406 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 1 too
+2025-05-12 11:27:41,409 - src.data_collection.coffee_market - INFO - Processing Metro page 2 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=2
+2025-05-12 11:27:41,759 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=2
+2025-05-12 11:27:41,830 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 2 using selector: .product-item
+2025-05-12 11:27:41,859 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 2 too
+2025-05-12 11:27:41,859 - src.data_collection.coffee_market - INFO - Processing Metro page 3 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=3
+2025-05-12 11:27:42,494 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=3
+2025-05-12 11:27:42,545 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 3 using selector: .product-item
+2025-05-12 11:27:42,562 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 3 too
+2025-05-12 11:27:42,562 - src.data_collection.coffee_market - INFO - Processing Metro page 4 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=4
+2025-05-12 11:27:42,798 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=4
+2025-05-12 11:27:42,843 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 4 using selector: .product-item
+2025-05-12 11:27:42,858 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 4 too
+2025-05-12 11:27:42,859 - src.data_collection.coffee_market - INFO - Processing Metro page 5 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=5
+2025-05-12 11:27:43,092 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=5
+2025-05-12 11:27:43,129 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 5 using selector: .product-item
+2025-05-12 11:27:43,146 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 5 too
+2025-05-12 11:27:43,147 - src.data_collection.coffee_market - INFO - Total extracted 0 products from Metro across 5 pages
+2025-05-12 11:27:43,147 - src.data_collection.coffee_market - INFO - Extracted 0 products from metro in 2.37 seconds
+2025-05-12 11:27:43,148 - src.data_collection.coffee_market - WARNING - No products extracted from metro
+2025-05-12 11:27:43,149 - src.data_collection.coffee_market - INFO - Processing site: alibaba
+2025-05-12 11:27:43,156 - src.data_collection.coffee_market - INFO - Extracting coffee data from Alibaba Pakistan
+2025-05-12 11:27:43,157 - src.data_collection.coffee_market - INFO - Processing Alibaba page 1 with URL: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee
+2025-05-12 11:27:43,773 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee
+2025-05-12 11:27:43,892 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 11:27:44,245 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 1
+2025-05-12 11:27:44,245 - src.data_collection.coffee_market - INFO - Processing Alibaba page 2 with URL: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/2
+2025-05-12 11:27:44,759 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/2
+2025-05-12 11:27:44,844 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 11:27:45,073 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 2
+2025-05-12 11:27:45,074 - src.data_collection.coffee_market - INFO - Processing Alibaba page 3 with URL: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/3
+2025-05-12 11:27:45,545 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/3
+2025-05-12 11:27:45,630 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 11:27:45,864 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 3
+2025-05-12 11:27:45,864 - src.data_collection.coffee_market - INFO - Processing Alibaba page 4 with URL: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/4
+2025-05-12 11:27:45,881 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/4
+2025-05-12 11:27:45,882 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 11:27:45,897 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 4
+2025-05-12 11:27:45,898 - src.data_collection.coffee_market - INFO - Processing Alibaba page 5 with URL: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/5
+2025-05-12 11:27:45,915 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/5
+2025-05-12 11:27:45,925 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 11:27:45,931 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 5
+2025-05-12 11:27:45,932 - src.data_collection.coffee_market - INFO - Total extracted 0 products from Alibaba across 5 pages
+2025-05-12 11:27:45,932 - src.data_collection.coffee_market - INFO - Extracted 0 products from alibaba in 2.78 seconds
+2025-05-12 11:27:45,933 - src.data_collection.coffee_market - WARNING - No products extracted from alibaba
+2025-05-12 11:27:45,940 - src.data_collection.coffee_market - INFO - Processing site: foodpanda
+2025-05-12 11:27:45,941 - src.data_collection.coffee_market - INFO - Extracting coffee data from Foodpanda
+2025-05-12 11:27:45,942 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 1 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 11:27:46,048 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 11:27:46,147 - src.data_collection.coffee_market - INFO - Found 25 products with selector: ul.product-grid > li
+2025-05-12 11:27:46,148 - src.data_collection.coffee_market - INFO - Processing 25 product cards from Foodpanda page 1
+2025-05-12 11:27:46,177 - src.data_collection.coffee_market - INFO - Extracted 22 products from Foodpanda page 1
+2025-05-12 11:27:46,178 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 2 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2
+2025-05-12 11:27:46,181 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2
+2025-05-12 11:27:46,193 - src.data_collection.coffee_market - WARNING - No product cards found on Foodpanda page 2, stopping pagination
+2025-05-12 11:27:46,193 - src.data_collection.coffee_market - INFO - Total extracted 22 products from Foodpanda across 2 pages
+2025-05-12 11:27:46,194 - src.data_collection.coffee_market - INFO - Extracted 22 products from foodpanda in 0.25 seconds
+2025-05-12 11:27:46,195 - src.data_collection.coffee_market - INFO - Collected data for 631 coffee products from 4 sites
+2025-05-12 11:27:46,196 - src.data_collection.coffee_market - INFO - Successful sites: daraz, alfatah, naheed, foodpanda
+2025-05-12 11:27:46,196 - src.data_collection.coffee_market - INFO - Failed sites: metro, alibaba
+2025-05-12 11:27:48,414 - src.data_collection.coffee_market - INFO - Saved consolidated coffee market data to Excel file: data/processed\coffee_market_all_categories_20250512_112746.xlsx
+2025-05-12 11:27:48,927 - src.data_collection.coffee_market - INFO - Saved coffee market data to 5 files
+2025-05-12 11:27:48,928 - __main__ - INFO - Data collection completed successfully
+2025-05-12 11:27:48,929 - __main__ - INFO - Collected data for 631 products from 8 brands
+2025-05-12 11:27:48,929 - __main__ - INFO - Coffee types identified: instant, coffee mix, beans, capsule/pod, ground
+2025-05-12 11:27:48,930 - __main__ - INFO - Data saved to the following files:
+2025-05-12 11:27:48,931 - __main__ - INFO - - raw_json: data/raw\coffee_market_20250512_112746.json
+2025-05-12 11:27:48,931 - __main__ - INFO - - processed_json: data/raw\coffee_market_processed_20250512_112746.json
+2025-05-12 11:27:48,932 - __main__ - INFO - - csv_files (products): data/processed\coffee_products_20250512_112746.csv
+2025-05-12 11:27:48,933 - __main__ - INFO - - csv_files (brands): data/processed\coffee_brands_20250512_112746.csv
+2025-05-12 11:27:48,933 - __main__ - INFO - - csv_files (types): data/processed\coffee_types_20250512_112746.csv
+2025-05-12 11:27:48,940 - __main__ - INFO - - csv_files (packaging): data/processed\coffee_packaging_20250512_112746.csv
+2025-05-12 11:27:48,942 - __main__ - INFO - - csv_files (consolidated): data/processed\coffee_market_all_categories_20250512_112746.xlsx
+2025-05-12 11:27:48,942 - __main__ - INFO - Collection finished at 2025-05-12 11:27:48
+2025-05-12 11:27:48,943 - __main__ - INFO - Total duration: 0:00:25.448637
+2025-05-12 12:40:03,286 - __main__ - INFO - Starting coffee market data collection
+2025-05-12 12:40:03,287 - __main__ - INFO - Collection started at 2025-05-12 12:40:03
+2025-05-12 12:40:03,289 - src.data_collection.coffee_market - INFO - Starting coffee market data collection
+2025-05-12 12:40:03,289 - src.data_collection.coffee_market - INFO - Processing site: daraz
+2025-05-12 12:40:03,290 - src.data_collection.coffee_market - INFO - Extracting coffee data from Daraz
+2025-05-12 12:40:03,290 - src.data_collection.coffee_market - INFO - Processing Daraz page 1 with URL: https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 12:40:03,753 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 12:40:03,939 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 1
+2025-05-12 12:40:04,037 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 1
+2025-05-12 12:40:04,038 - src.data_collection.coffee_market - INFO - Processing Daraz page 2 with URL: https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 12:40:04,390 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 12:40:04,442 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 2
+2025-05-12 12:40:04,542 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 2
+2025-05-12 12:40:04,543 - src.data_collection.coffee_market - INFO - Processing Daraz page 3 with URL: https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 12:40:04,887 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 12:40:04,931 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 3
+2025-05-12 12:40:05,022 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 3
+2025-05-12 12:40:05,022 - src.data_collection.coffee_market - INFO - Processing Daraz page 4 with URL: https://www.daraz.pk/catalog/?q=coffee&page=4
+2025-05-12 12:40:05,356 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=4
+2025-05-12 12:40:05,397 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 4
+2025-05-12 12:40:05,501 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 4
+2025-05-12 12:40:05,501 - src.data_collection.coffee_market - INFO - Processing Daraz page 5 with URL: https://www.daraz.pk/catalog/?q=coffee&page=5
+2025-05-12 12:40:05,976 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=5
+2025-05-12 12:40:06,026 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 5
+2025-05-12 12:40:06,112 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 5
+2025-05-12 12:40:06,113 - src.data_collection.coffee_market - INFO - Total extracted 200 products from Daraz across 5 pages
+2025-05-12 12:40:06,114 - src.data_collection.coffee_market - INFO - Extracted 200 products from daraz in 2.82 seconds
+2025-05-12 12:40:06,114 - src.data_collection.coffee_market - INFO - Processing site: alfatah
+2025-05-12 12:40:06,115 - src.data_collection.coffee_market - INFO - Extracting coffee data from Alfatah
+2025-05-12 12:40:06,115 - src.data_collection.coffee_market - INFO - Processing Alfatah page 1 with URL: https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last
+2025-05-12 12:40:07,600 - src.data_collection.coffee_market - INFO - Using cached content for https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last
+2025-05-12 12:40:08,318 - src.data_collection.coffee_market - WARNING - No product cards found on Alfatah page 1 using selector: .product-card.card-border
+2025-05-12 12:40:08,318 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .col-6.col-sm-4.col-md-3.col-lg-2 .product-card
+2025-05-12 12:40:08,441 - src.data_collection.coffee_market - INFO - Trying alternative product selector: #shopify_section_template__22762959470880__main_content .product-card
+2025-05-12 12:40:08,540 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .product-grid__item
+2025-05-12 12:40:08,724 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .card
+2025-05-12 12:40:08,872 - src.data_collection.coffee_market - WARNING - Failed to find any products with all selectors on page 1
+2025-05-12 12:40:08,873 - src.data_collection.coffee_market - INFO - Processing Alfatah page 2 with URL: https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=2
+2025-05-12 12:40:10,148 - src.data_collection.coffee_market - INFO - Using cached content for https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=2
+2025-05-12 12:40:10,288 - src.data_collection.coffee_market - INFO - Found 228 products using primary selector on page 2
+2025-05-12 12:40:10,288 - src.data_collection.coffee_market - INFO - Processing 228 product cards from Alfatah page 2
+2025-05-12 12:40:10,442 - src.data_collection.coffee_market - INFO - Extracted 228 products from Alfatah page 2
+2025-05-12 12:40:10,443 - src.data_collection.coffee_market - INFO - Processing Alfatah page 3 with URL: https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=3
+2025-05-12 12:40:11,624 - src.data_collection.coffee_market - INFO - Using cached content for https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=3
+2025-05-12 12:40:11,868 - src.data_collection.coffee_market - INFO - Found 229 products using primary selector on page 3
+2025-05-12 12:40:11,868 - src.data_collection.coffee_market - INFO - Processing 229 product cards from Alfatah page 3
+2025-05-12 12:40:12,015 - src.data_collection.coffee_market - INFO - Extracted 1 products from Alfatah page 3
+2025-05-12 12:40:12,016 - src.data_collection.coffee_market - INFO - Processing Alfatah page 4 with URL: https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=4
+2025-05-12 12:40:13,686 - src.data_collection.coffee_market - INFO - Using cached content for https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=4
+2025-05-12 12:40:13,969 - src.data_collection.coffee_market - INFO - Found 229 products using primary selector on page 4
+2025-05-12 12:40:13,970 - src.data_collection.coffee_market - INFO - Processing 229 product cards from Alfatah page 4
+2025-05-12 12:40:14,123 - src.data_collection.coffee_market - INFO - Extracted 0 products from Alfatah page 4
+2025-05-12 12:40:14,123 - src.data_collection.coffee_market - INFO - No products found on page 4, stopping pagination
+2025-05-12 12:40:14,124 - src.data_collection.coffee_market - INFO - Total extracted 229 products from Alfatah across 4 pages
+2025-05-12 12:40:14,124 - src.data_collection.coffee_market - INFO - Extracted 229 products from alfatah in 8.01 seconds
+2025-05-12 12:40:14,124 - src.data_collection.coffee_market - INFO - Processing site: naheed
+2025-05-12 12:40:14,125 - src.data_collection.coffee_market - INFO - Extracting coffee data from Naheed
+2025-05-12 12:40:14,125 - src.data_collection.coffee_market - INFO - Processing Naheed page 1 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee
+2025-05-12 12:40:14,707 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee
+2025-05-12 12:40:15,008 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 1 with primary selector
+2025-05-12 12:40:15,071 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 1 using selector: li.item.product.product-item
+2025-05-12 12:40:15,071 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:40:15,169 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:40:15,170 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 1
+2025-05-12 12:40:15,237 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 1
+2025-05-12 12:40:15,239 - src.data_collection.coffee_market - INFO - Processing Naheed page 2 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=2
+2025-05-12 12:40:15,936 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=2
+2025-05-12 12:40:15,937 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 2 with primary selector
+2025-05-12 12:40:16,016 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 2 using selector: li.item.product.product-item
+2025-05-12 12:40:16,017 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:40:16,075 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:40:16,077 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 2
+2025-05-12 12:40:16,127 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 2
+2025-05-12 12:40:16,127 - src.data_collection.coffee_market - INFO - Processing Naheed page 3 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=3
+2025-05-12 12:40:16,783 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=3
+2025-05-12 12:40:16,785 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 3 with primary selector
+2025-05-12 12:40:16,857 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 3 using selector: li.item.product.product-item
+2025-05-12 12:40:16,859 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:40:16,935 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:40:16,935 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 3
+2025-05-12 12:40:16,982 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 3
+2025-05-12 12:40:16,983 - src.data_collection.coffee_market - INFO - Processing Naheed page 4 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=4
+2025-05-12 12:40:17,742 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=4
+2025-05-12 12:40:17,743 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 4 with primary selector
+2025-05-12 12:40:17,834 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 4 using selector: li.item.product.product-item
+2025-05-12 12:40:17,835 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:40:17,901 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:40:17,902 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 4
+2025-05-12 12:40:17,939 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 4
+2025-05-12 12:40:17,939 - src.data_collection.coffee_market - INFO - Processing Naheed page 5 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=5
+2025-05-12 12:40:18,575 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=5
+2025-05-12 12:40:18,575 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 5 with primary selector
+2025-05-12 12:40:18,604 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 5 using selector: li.item.product.product-item
+2025-05-12 12:40:18,605 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:40:18,644 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:40:18,649 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 5
+2025-05-12 12:40:18,700 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 5
+2025-05-12 12:40:18,701 - src.data_collection.coffee_market - INFO - Total extracted 180 products from Naheed across 5 pages
+2025-05-12 12:40:18,701 - src.data_collection.coffee_market - INFO - Extracted 180 products from naheed in 4.58 seconds
+2025-05-12 12:40:18,701 - src.data_collection.coffee_market - INFO - Processing site: metro
+2025-05-12 12:40:18,702 - src.data_collection.coffee_market - INFO - Extracting coffee data from Metro Online
+2025-05-12 12:40:18,702 - src.data_collection.coffee_market - INFO - Processing Metro page 1 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true
+2025-05-12 12:40:18,919 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true
+2025-05-12 12:40:19,043 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 1 using selector: .product-item
+2025-05-12 12:40:19,059 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 1 too
+2025-05-12 12:40:19,059 - src.data_collection.coffee_market - INFO - Processing Metro page 2 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=2
+2025-05-12 12:40:19,219 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=2
+2025-05-12 12:40:19,251 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 2 using selector: .product-item
+2025-05-12 12:40:19,266 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 2 too
+2025-05-12 12:40:19,267 - src.data_collection.coffee_market - INFO - Processing Metro page 3 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=3
+2025-05-12 12:40:19,723 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=3
+2025-05-12 12:40:19,756 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 3 using selector: .product-item
+2025-05-12 12:40:19,773 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 3 too
+2025-05-12 12:40:19,774 - src.data_collection.coffee_market - INFO - Processing Metro page 4 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=4
+2025-05-12 12:40:19,970 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=4
+2025-05-12 12:40:20,002 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 4 using selector: .product-item
+2025-05-12 12:40:20,020 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 4 too
+2025-05-12 12:40:20,020 - src.data_collection.coffee_market - INFO - Processing Metro page 5 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=5
+2025-05-12 12:40:20,177 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=5
+2025-05-12 12:40:20,205 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 5 using selector: .product-item
+2025-05-12 12:40:20,217 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 5 too
+2025-05-12 12:40:20,218 - src.data_collection.coffee_market - INFO - Total extracted 0 products from Metro across 5 pages
+2025-05-12 12:40:20,218 - src.data_collection.coffee_market - INFO - Extracted 0 products from metro in 1.52 seconds
+2025-05-12 12:40:20,218 - src.data_collection.coffee_market - WARNING - No products extracted from metro
+2025-05-12 12:40:20,219 - src.data_collection.coffee_market - INFO - Processing site: alibaba
+2025-05-12 12:40:20,220 - src.data_collection.coffee_market - INFO - Extracting coffee data from Alibaba Pakistan
+2025-05-12 12:40:20,220 - src.data_collection.coffee_market - INFO - Processing Alibaba page 1 with URL: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee
+2025-05-12 12:40:20,647 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee
+2025-05-12 12:40:20,715 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 12:40:21,100 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 1
+2025-05-12 12:40:21,101 - src.data_collection.coffee_market - INFO - Processing Alibaba page 2 with URL: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/2
+2025-05-12 12:40:21,410 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/2
+2025-05-12 12:40:21,459 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 12:40:21,719 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 2
+2025-05-12 12:40:21,720 - src.data_collection.coffee_market - INFO - Processing Alibaba page 3 with URL: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/3
+2025-05-12 12:40:22,039 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/3
+2025-05-12 12:40:22,108 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 12:40:22,305 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 3
+2025-05-12 12:40:22,306 - src.data_collection.coffee_market - INFO - Processing Alibaba page 4 with URL: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/4
+2025-05-12 12:40:22,321 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/4
+2025-05-12 12:40:22,323 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 12:40:22,333 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 4
+2025-05-12 12:40:22,334 - src.data_collection.coffee_market - INFO - Processing Alibaba page 5 with URL: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/5
+2025-05-12 12:40:22,348 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&SearchText=coffee/page/5
+2025-05-12 12:40:22,352 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 12:40:22,357 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 5
+2025-05-12 12:40:22,358 - src.data_collection.coffee_market - INFO - Total extracted 0 products from Alibaba across 5 pages
+2025-05-12 12:40:22,359 - src.data_collection.coffee_market - INFO - Extracted 0 products from alibaba in 2.14 seconds
+2025-05-12 12:40:22,360 - src.data_collection.coffee_market - WARNING - No products extracted from alibaba
+2025-05-12 12:40:22,360 - src.data_collection.coffee_market - INFO - Processing site: foodpanda
+2025-05-12 12:40:22,365 - src.data_collection.coffee_market - INFO - Extracting coffee data from Foodpanda
+2025-05-12 12:40:22,368 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 1 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 12:40:22,451 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 12:40:22,514 - src.data_collection.coffee_market - INFO - Found 25 products with selector: ul.product-grid > li
+2025-05-12 12:40:22,516 - src.data_collection.coffee_market - INFO - Processing 25 product cards from Foodpanda page 1
+2025-05-12 12:40:22,535 - src.data_collection.coffee_market - INFO - Extracted 22 products from Foodpanda page 1
+2025-05-12 12:40:22,536 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 2 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2
+2025-05-12 12:40:22,540 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2
+2025-05-12 12:40:22,547 - src.data_collection.coffee_market - WARNING - No product cards found on Foodpanda page 2, stopping pagination
+2025-05-12 12:40:22,549 - src.data_collection.coffee_market - INFO - Total extracted 22 products from Foodpanda across 2 pages
+2025-05-12 12:40:22,552 - src.data_collection.coffee_market - INFO - Extracted 22 products from foodpanda in 0.19 seconds
+2025-05-12 12:40:22,553 - src.data_collection.coffee_market - INFO - Collected data for 631 coffee products from 4 sites
+2025-05-12 12:40:22,554 - src.data_collection.coffee_market - INFO - Successful sites: daraz, alfatah, naheed, foodpanda
+2025-05-12 12:40:22,554 - src.data_collection.coffee_market - INFO - Failed sites: metro, alibaba
+2025-05-12 12:40:24,227 - src.data_collection.coffee_market - INFO - Saved consolidated coffee market data to Excel file: data/processed\coffee_market_all_categories_20250512_124022.xlsx
+2025-05-12 12:40:24,639 - src.data_collection.coffee_market - INFO - Saved coffee market data to 5 files
+2025-05-12 12:40:24,640 - __main__ - INFO - Data collection completed successfully
+2025-05-12 12:40:24,640 - __main__ - INFO - Collected data for 631 products from 8 brands
+2025-05-12 12:40:24,641 - __main__ - INFO - Coffee types identified: instant, coffee mix, beans, capsule/pod, ground
+2025-05-12 12:40:24,641 - __main__ - INFO - Data saved to the following files:
+2025-05-12 12:40:24,642 - __main__ - INFO - - raw_json: data/raw\coffee_market_20250512_124022.json
+2025-05-12 12:40:24,642 - __main__ - INFO - - processed_json: data/raw\coffee_market_processed_20250512_124022.json
+2025-05-12 12:40:24,643 - __main__ - INFO - - csv_files (products): data/processed\coffee_products_20250512_124022.csv
+2025-05-12 12:40:24,643 - __main__ - INFO - - csv_files (brands): data/processed\coffee_brands_20250512_124022.csv
+2025-05-12 12:40:24,643 - __main__ - INFO - - csv_files (types): data/processed\coffee_types_20250512_124022.csv
+2025-05-12 12:40:24,644 - __main__ - INFO - - csv_files (packaging): data/processed\coffee_packaging_20250512_124022.csv
+2025-05-12 12:40:24,644 - __main__ - INFO - - csv_files (consolidated): data/processed\coffee_market_all_categories_20250512_124022.xlsx
+2025-05-12 12:40:24,647 - __main__ - INFO - Collection finished at 2025-05-12 12:40:24
+2025-05-12 12:40:24,648 - __main__ - INFO - Total duration: 0:00:21.360695
+2025-05-12 12:43:07,994 - __main__ - INFO - Starting coffee market data collection
+2025-05-12 12:43:07,996 - __main__ - INFO - Collection started at 2025-05-12 12:43:07
+2025-05-12 12:43:08,001 - src.data_collection.coffee_market - INFO - Starting coffee market data collection
+2025-05-12 12:43:08,002 - src.data_collection.coffee_market - INFO - Processing site: daraz
+2025-05-12 12:43:08,002 - src.data_collection.coffee_market - INFO - Extracting coffee data from Daraz
+2025-05-12 12:43:08,003 - src.data_collection.coffee_market - INFO - Processing Daraz page 1 with URL: https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 12:43:08,920 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 12:43:09,354 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 1
+2025-05-12 12:43:09,504 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 1
+2025-05-12 12:43:09,505 - src.data_collection.coffee_market - INFO - Processing Daraz page 2 with URL: https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 12:43:10,108 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 12:43:10,187 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 2
+2025-05-12 12:43:10,339 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 2
+2025-05-12 12:43:10,342 - src.data_collection.coffee_market - INFO - Processing Daraz page 3 with URL: https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 12:43:10,902 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 12:43:10,980 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 3
+2025-05-12 12:43:11,118 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 3
+2025-05-12 12:43:11,118 - src.data_collection.coffee_market - INFO - Processing Daraz page 4 with URL: https://www.daraz.pk/catalog/?q=coffee&page=4
+2025-05-12 12:43:11,827 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=4
+2025-05-12 12:43:12,053 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 4
+2025-05-12 12:43:12,484 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 4
+2025-05-12 12:43:12,487 - src.data_collection.coffee_market - INFO - Processing Daraz page 5 with URL: https://www.daraz.pk/catalog/?q=coffee&page=5
+2025-05-12 12:43:13,454 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=5
+2025-05-12 12:43:13,531 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 5
+2025-05-12 12:43:13,700 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 5
+2025-05-12 12:43:13,701 - src.data_collection.coffee_market - INFO - Total extracted 200 products from Daraz across 5 pages
+2025-05-12 12:43:13,701 - src.data_collection.coffee_market - INFO - Extracted 200 products from daraz in 5.70 seconds
+2025-05-12 12:43:13,702 - src.data_collection.coffee_market - INFO - Processing site: alfatah
+2025-05-12 12:43:13,702 - src.data_collection.coffee_market - INFO - Extracting coffee data from Alfatah
+2025-05-12 12:43:13,703 - src.data_collection.coffee_market - INFO - Processing Alfatah page 1 with URL: https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last
+2025-05-12 12:43:14,531 - src.data_collection.coffee_market - INFO - Using cached content for https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last
+2025-05-12 12:43:14,951 - src.data_collection.coffee_market - WARNING - No product cards found on Alfatah page 1 using selector: .product-card.card-border
+2025-05-12 12:43:14,952 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .col-6.col-sm-4.col-md-3.col-lg-2 .product-card
+2025-05-12 12:43:15,044 - src.data_collection.coffee_market - INFO - Trying alternative product selector: #shopify_section_template__22762959470880__main_content .product-card
+2025-05-12 12:43:15,140 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .product-grid__item
+2025-05-12 12:43:15,216 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .card
+2025-05-12 12:43:15,293 - src.data_collection.coffee_market - WARNING - Failed to find any products with all selectors on page 1
+2025-05-12 12:43:15,293 - src.data_collection.coffee_market - INFO - Processing Alfatah page 2 with URL: https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=2
+2025-05-12 12:43:17,095 - src.data_collection.coffee_market - INFO - Using cached content for https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=2
+2025-05-12 12:43:17,236 - src.data_collection.coffee_market - INFO - Found 228 products using primary selector on page 2
+2025-05-12 12:43:17,237 - src.data_collection.coffee_market - INFO - Processing 228 product cards from Alfatah page 2
+2025-05-12 12:43:17,383 - src.data_collection.coffee_market - INFO - Extracted 228 products from Alfatah page 2
+2025-05-12 12:43:17,384 - src.data_collection.coffee_market - INFO - Processing Alfatah page 3 with URL: https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=3
+2025-05-12 12:43:18,423 - src.data_collection.coffee_market - INFO - Using cached content for https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=3
+2025-05-12 12:43:18,611 - src.data_collection.coffee_market - INFO - Found 229 products using primary selector on page 3
+2025-05-12 12:43:18,611 - src.data_collection.coffee_market - INFO - Processing 229 product cards from Alfatah page 3
+2025-05-12 12:43:18,800 - src.data_collection.coffee_market - INFO - Extracted 1 products from Alfatah page 3
+2025-05-12 12:43:18,802 - src.data_collection.coffee_market - INFO - Processing Alfatah page 4 with URL: https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=4
+2025-05-12 12:43:20,212 - src.data_collection.coffee_market - INFO - Using cached content for https://alfatah.pk/search?q=coffee&options%5Bprefix%5D=last&page=4
+2025-05-12 12:43:20,632 - src.data_collection.coffee_market - INFO - Found 229 products using primary selector on page 4
+2025-05-12 12:43:20,637 - src.data_collection.coffee_market - INFO - Processing 229 product cards from Alfatah page 4
+2025-05-12 12:43:20,988 - src.data_collection.coffee_market - INFO - Extracted 0 products from Alfatah page 4
+2025-05-12 12:43:20,996 - src.data_collection.coffee_market - INFO - No products found on page 4, stopping pagination
+2025-05-12 12:43:21,000 - src.data_collection.coffee_market - INFO - Total extracted 229 products from Alfatah across 4 pages
+2025-05-12 12:43:21,006 - src.data_collection.coffee_market - INFO - Extracted 229 products from alfatah in 7.30 seconds
+2025-05-12 12:43:21,017 - src.data_collection.coffee_market - INFO - Processing site: naheed
+2025-05-12 12:43:21,022 - src.data_collection.coffee_market - INFO - Extracting coffee data from Naheed
+2025-05-12 12:43:21,037 - src.data_collection.coffee_market - INFO - Processing Naheed page 1 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee
+2025-05-12 12:43:22,632 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee
+2025-05-12 12:43:22,904 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 1 with primary selector
+2025-05-12 12:43:22,945 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 1 using selector: li.item.product.product-item
+2025-05-12 12:43:22,946 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:43:22,989 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:43:22,989 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 1
+2025-05-12 12:43:23,040 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 1
+2025-05-12 12:43:23,040 - src.data_collection.coffee_market - INFO - Processing Naheed page 2 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=2
+2025-05-12 12:43:23,438 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=2
+2025-05-12 12:43:23,438 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 2 with primary selector
+2025-05-12 12:43:23,487 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 2 using selector: li.item.product.product-item
+2025-05-12 12:43:23,488 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:43:23,534 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:43:23,535 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 2
+2025-05-12 12:43:23,569 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 2
+2025-05-12 12:43:23,570 - src.data_collection.coffee_market - INFO - Processing Naheed page 3 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=3
+2025-05-12 12:43:24,006 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=3
+2025-05-12 12:43:24,006 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 3 with primary selector
+2025-05-12 12:43:24,036 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 3 using selector: li.item.product.product-item
+2025-05-12 12:43:24,036 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:43:24,082 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:43:24,083 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 3
+2025-05-12 12:43:24,117 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 3
+2025-05-12 12:43:24,118 - src.data_collection.coffee_market - INFO - Processing Naheed page 4 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=4
+2025-05-12 12:43:24,734 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=4
+2025-05-12 12:43:24,735 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 4 with primary selector
+2025-05-12 12:43:24,788 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 4 using selector: li.item.product.product-item
+2025-05-12 12:43:24,794 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:43:24,874 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:43:24,878 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 4
+2025-05-12 12:43:24,952 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 4
+2025-05-12 12:43:24,953 - src.data_collection.coffee_market - INFO - Processing Naheed page 5 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=5
+2025-05-12 12:43:25,569 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=5
+2025-05-12 12:43:25,569 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 5 with primary selector
+2025-05-12 12:43:25,616 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 5 using selector: li.item.product.product-item
+2025-05-12 12:43:25,616 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:43:25,667 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 12:43:25,668 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 5
+2025-05-12 12:43:25,718 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 5
+2025-05-12 12:43:25,719 - src.data_collection.coffee_market - INFO - Total extracted 180 products from Naheed across 5 pages
+2025-05-12 12:43:25,720 - src.data_collection.coffee_market - INFO - Extracted 180 products from naheed in 4.70 seconds
+2025-05-12 12:43:25,721 - src.data_collection.coffee_market - INFO - Processing site: metro
+2025-05-12 12:43:25,721 - src.data_collection.coffee_market - INFO - Extracting coffee data from Metro Online
+2025-05-12 12:43:25,722 - src.data_collection.coffee_market - INFO - Processing Metro page 1 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true
+2025-05-12 12:43:25,916 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true
+2025-05-12 12:43:26,015 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 1 using selector: .product-item
+2025-05-12 12:43:26,024 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 1 too
+2025-05-12 12:43:26,025 - src.data_collection.coffee_market - INFO - Processing Metro page 2 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=2
+2025-05-12 12:43:26,195 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=2
+2025-05-12 12:43:26,218 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 2 using selector: .product-item
+2025-05-12 12:43:26,231 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 2 too
+2025-05-12 12:43:26,232 - src.data_collection.coffee_market - INFO - Processing Metro page 3 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=3
+2025-05-12 12:43:26,613 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=3
+2025-05-12 12:43:26,638 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 3 using selector: .product-item
+2025-05-12 12:43:26,649 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 3 too
+2025-05-12 12:43:26,650 - src.data_collection.coffee_market - INFO - Processing Metro page 4 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=4
+2025-05-12 12:43:26,791 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=4
+2025-05-12 12:43:26,816 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 4 using selector: .product-item
+2025-05-12 12:43:26,827 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 4 too
+2025-05-12 12:43:26,830 - src.data_collection.coffee_market - INFO - Processing Metro page 5 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=5
+2025-05-12 12:43:26,980 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=5
+2025-05-12 12:43:27,004 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 5 using selector: .product-item
+2025-05-12 12:43:27,015 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 5 too
+2025-05-12 12:43:27,015 - src.data_collection.coffee_market - INFO - Total extracted 0 products from Metro across 5 pages
+2025-05-12 12:43:27,019 - src.data_collection.coffee_market - INFO - Extracted 0 products from metro in 1.30 seconds
+2025-05-12 12:43:27,019 - src.data_collection.coffee_market - WARNING - No products extracted from metro
+2025-05-12 12:43:27,020 - src.data_collection.coffee_market - INFO - Processing site: alibaba
+2025-05-12 12:43:27,020 - src.data_collection.coffee_market - INFO - Extracting coffee data from Alibaba Pakistan
+2025-05-12 12:43:27,021 - src.data_collection.coffee_market - INFO - Processing Alibaba page 1 with URL: https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&
+2025-05-12 12:43:27,022 - src.data_collection.coffee_market - INFO - Fetching content from https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all& (using Selenium)
+2025-05-12 12:44:00,681 - src.data_collection.coffee_market - INFO - Cached content for https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&
+2025-05-12 12:44:03,368 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 12:44:03,565 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 1
+2025-05-12 12:44:03,566 - src.data_collection.coffee_market - INFO - Processing Alibaba page 2 with URL: https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/2
+2025-05-12 12:44:03,567 - src.data_collection.coffee_market - INFO - Fetching content from https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/2 (using Selenium)
+2025-05-12 12:44:15,840 - src.data_collection.coffee_market - INFO - Cached content for https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/2
+2025-05-12 12:44:18,834 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 12:44:18,838 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 2
+2025-05-12 12:44:18,838 - src.data_collection.coffee_market - INFO - Processing Alibaba page 3 with URL: https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/3
+2025-05-12 12:44:18,839 - src.data_collection.coffee_market - INFO - Fetching content from https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/3 (using Selenium)
+2025-05-12 12:44:29,106 - src.data_collection.coffee_market - INFO - Cached content for https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/3
+2025-05-12 12:44:31,546 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 12:44:31,553 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 3
+2025-05-12 12:44:31,553 - src.data_collection.coffee_market - INFO - Processing Alibaba page 4 with URL: https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/4
+2025-05-12 12:44:31,554 - src.data_collection.coffee_market - INFO - Fetching content from https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/4 (using Selenium)
+2025-05-12 12:44:42,804 - src.data_collection.coffee_market - INFO - Cached content for https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/4
+2025-05-12 12:44:46,135 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 12:44:46,142 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 4
+2025-05-12 12:44:46,142 - src.data_collection.coffee_market - INFO - Processing Alibaba page 5 with URL: https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/5
+2025-05-12 12:44:46,143 - src.data_collection.coffee_market - INFO - Fetching content from https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/5 (using Selenium)
+2025-05-12 12:45:04,817 - src.data_collection.coffee_market - INFO - Cached content for https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/5
+2025-05-12 12:45:15,535 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 12:45:15,542 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 5
+2025-05-12 12:45:15,543 - src.data_collection.coffee_market - INFO - Total extracted 0 products from Alibaba across 5 pages
+2025-05-12 12:45:15,543 - src.data_collection.coffee_market - INFO - Extracted 0 products from alibaba in 108.52 seconds
+2025-05-12 12:45:15,544 - src.data_collection.coffee_market - WARNING - No products extracted from alibaba
+2025-05-12 12:45:15,544 - src.data_collection.coffee_market - INFO - Processing site: foodpanda
+2025-05-12 12:45:15,545 - src.data_collection.coffee_market - INFO - Extracting coffee data from Foodpanda
+2025-05-12 12:45:15,545 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 1 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 12:45:15,643 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 12:45:15,740 - src.data_collection.coffee_market - INFO - Found 25 products with selector: ul.product-grid > li
+2025-05-12 12:45:15,741 - src.data_collection.coffee_market - INFO - Processing 25 product cards from Foodpanda page 1
+2025-05-12 12:45:15,767 - src.data_collection.coffee_market - INFO - Extracted 22 products from Foodpanda page 1
+2025-05-12 12:45:15,769 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 2 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2
+2025-05-12 12:45:15,773 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2
+2025-05-12 12:45:15,785 - src.data_collection.coffee_market - WARNING - No product cards found on Foodpanda page 2, stopping pagination
+2025-05-12 12:45:15,786 - src.data_collection.coffee_market - INFO - Total extracted 22 products from Foodpanda across 2 pages
+2025-05-12 12:45:15,787 - src.data_collection.coffee_market - INFO - Extracted 22 products from foodpanda in 0.24 seconds
+2025-05-12 12:45:15,788 - src.data_collection.coffee_market - INFO - Collected data for 631 coffee products from 4 sites
+2025-05-12 12:45:15,789 - src.data_collection.coffee_market - INFO - Successful sites: daraz, alfatah, naheed, foodpanda
+2025-05-12 12:45:15,790 - src.data_collection.coffee_market - INFO - Failed sites: metro, alibaba
+2025-05-12 12:45:17,418 - src.data_collection.coffee_market - INFO - Saved consolidated coffee market data to Excel file: data/processed\coffee_market_all_categories_20250512_124515.xlsx
+2025-05-12 12:45:18,211 - src.data_collection.coffee_market - INFO - Saved coffee market data to 5 files
+2025-05-12 12:45:18,277 - __main__ - INFO - Data collection completed successfully
+2025-05-12 12:45:18,326 - __main__ - INFO - Collected data for 631 products from 8 brands
+2025-05-12 12:45:18,375 - __main__ - INFO - Coffee types identified: instant, coffee mix, beans, capsule/pod, ground
+2025-05-12 12:45:18,407 - __main__ - INFO - Data saved to the following files:
+2025-05-12 12:45:18,412 - __main__ - INFO - - raw_json: data/raw\coffee_market_20250512_124515.json
+2025-05-12 12:45:18,412 - __main__ - INFO - - processed_json: data/raw\coffee_market_processed_20250512_124515.json
+2025-05-12 12:45:18,415 - __main__ - INFO - - csv_files (products): data/processed\coffee_products_20250512_124515.csv
+2025-05-12 12:45:18,419 - __main__ - INFO - - csv_files (brands): data/processed\coffee_brands_20250512_124515.csv
+2025-05-12 12:45:18,420 - __main__ - INFO - - csv_files (types): data/processed\coffee_types_20250512_124515.csv
+2025-05-12 12:45:18,420 - __main__ - INFO - - csv_files (packaging): data/processed\coffee_packaging_20250512_124515.csv
+2025-05-12 12:45:18,422 - __main__ - INFO - - csv_files (consolidated): data/processed\coffee_market_all_categories_20250512_124515.xlsx
+2025-05-12 12:45:18,423 - __main__ - INFO - Collection finished at 2025-05-12 12:45:18
+2025-05-12 12:45:18,424 - __main__ - INFO - Total duration: 0:02:10.427380
+2025-05-12 14:50:20,100 - __main__ - INFO - Starting coffee market data collection
+2025-05-12 14:50:20,101 - __main__ - INFO - Collection started at 2025-05-12 14:50:20
+2025-05-12 14:50:20,104 - src.data_collection.coffee_market - INFO - Starting coffee market data collection
+2025-05-12 14:50:20,105 - src.data_collection.coffee_market - INFO - Processing site: daraz
+2025-05-12 14:50:20,105 - src.data_collection.coffee_market - INFO - Extracting coffee data from Daraz with improved price extraction and pagination
+2025-05-12 14:50:20,106 - src.data_collection.coffee_market - INFO - Processing Daraz page 1/5 with URL: https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 14:50:20,430 - src.data_collection.coffee_market - INFO - Cache expired for https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 14:50:20,431 - src.data_collection.coffee_market - INFO - Fetching content from https://www.daraz.pk/catalog/?q=coffee (using Selenium)
+2025-05-12 14:50:46,128 - src.data_collection.coffee_market - INFO - Cached content for https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 14:50:50,602 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 1
+2025-05-12 14:50:50,763 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 1
+2025-05-12 14:50:53,802 - src.data_collection.coffee_market - ERROR - Error extracting data from daraz: 'CoffeeMarketDataCollector' object has no attribute '_generate_pagination_url'
+Traceback (most recent call last):
+  File "C:\Users\MADIHA\Desktop\python automation\src\data_collection\coffee_market.py", line 2104, in collect_data
+    extraction_methods[site_name](max_pages=5)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\MADIHA\Desktop\python automation\src\data_collection\coffee_market.py", line 586, in extract_daraz_data
+    current_url = base_url if page == 1 else self._generate_pagination_url(base_url, page, 'daraz')
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'CoffeeMarketDataCollector' object has no attribute '_generate_pagination_url'
+2025-05-12 14:50:53,825 - src.data_collection.coffee_market - INFO - Processing site: alfatah
+2025-05-12 14:50:53,826 - src.data_collection.coffee_market - INFO - Extracting coffee data from Alfatah with infinite scrolling
+2025-05-12 14:51:20,575 - src.data_collection.coffee_market - INFO - Performing scroll iteration 1/5 for Alfatah
+2025-05-12 14:51:35,526 - src.data_collection.coffee_market - INFO - Found 227 products using primary selector on scroll 1
+2025-05-12 14:51:35,527 - src.data_collection.coffee_market - INFO - Processing 227 product cards from Alfatah scroll 1
+2025-05-12 14:51:35,680 - src.data_collection.coffee_market - INFO - Found 203 products, 203 new products in scroll 1
+2025-05-12 14:51:35,681 - src.data_collection.coffee_market - INFO - Performing scroll iteration 2/5 for Alfatah
+2025-05-12 14:51:42,954 - src.data_collection.coffee_market - INFO - Found 487 products using primary selector on scroll 2
+2025-05-12 14:51:42,955 - src.data_collection.coffee_market - INFO - Processing 487 product cards from Alfatah scroll 2
+2025-05-12 14:51:43,119 - src.data_collection.coffee_market - INFO - Found 80 products, 80 new products in scroll 2
+2025-05-12 14:51:43,120 - src.data_collection.coffee_market - INFO - Performing scroll iteration 3/5 for Alfatah
+2025-05-12 14:51:46,232 - src.data_collection.coffee_market - INFO - Reached the end of the page, no more products to load
+2025-05-12 14:51:49,020 - src.data_collection.coffee_market - INFO - Total extracted 283 unique products from Alfatah using infinite scroll
+2025-05-12 14:51:49,022 - src.data_collection.coffee_market - INFO - Extracted 283 products from alfatah in 55.20 seconds
+2025-05-12 14:51:49,023 - src.data_collection.coffee_market - INFO - Processing site: naheed
+2025-05-12 14:51:49,024 - src.data_collection.coffee_market - INFO - Extracting coffee data from Naheed
+2025-05-12 14:51:49,026 - src.data_collection.coffee_market - INFO - Processing Naheed page 1 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee
+2025-05-12 14:51:49,558 - src.data_collection.coffee_market - INFO - Cache expired for https://www.naheed.pk/catalogsearch/result/?q=coffee
+2025-05-12 14:51:49,559 - src.data_collection.coffee_market - INFO - Fetching content from https://www.naheed.pk/catalogsearch/result/?q=coffee (using Selenium)
+2025-05-12 14:52:09,369 - src.data_collection.coffee_market - INFO - Cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee
+2025-05-12 14:52:12,262 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 1 with primary selector
+2025-05-12 14:52:12,310 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 1 using selector: li.item.product.product-item
+2025-05-12 14:52:12,311 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 14:52:12,363 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 14:52:12,364 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 1
+2025-05-12 14:52:12,414 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 1
+2025-05-12 14:52:12,415 - src.data_collection.coffee_market - ERROR - Error extracting data from naheed: 'CoffeeMarketDataCollector' object has no attribute '_generate_pagination_url'
+Traceback (most recent call last):
+  File "C:\Users\MADIHA\Desktop\python automation\src\data_collection\coffee_market.py", line 2102, in collect_data
+    extraction_methods[site_name](max_pages=5)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\MADIHA\Desktop\python automation\src\data_collection\coffee_market.py", line 748, in extract_naheed_data
+    current_url = base_url if page == 1 else self._generate_pagination_url(base_url, page, 'naheed')
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'CoffeeMarketDataCollector' object has no attribute '_generate_pagination_url'
+2025-05-12 14:52:12,422 - src.data_collection.coffee_market - INFO - Processing site: metro
+2025-05-12 14:52:12,423 - src.data_collection.coffee_market - INFO - Extracting coffee data from Metro Online
+2025-05-12 14:52:12,423 - src.data_collection.coffee_market - INFO - Processing Metro page 1 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true
+2025-05-12 14:52:12,596 - src.data_collection.coffee_market - INFO - Cache expired for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true
+2025-05-12 14:52:12,596 - src.data_collection.coffee_market - INFO - Fetching content from https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true (using Selenium)
+2025-05-12 14:52:29,278 - src.data_collection.coffee_market - INFO - Cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true
+2025-05-12 14:52:33,326 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 1 using selector: .product-item
+2025-05-12 14:52:33,337 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 1 too
+2025-05-12 14:52:33,338 - src.data_collection.coffee_market - ERROR - Error extracting data from metro: 'CoffeeMarketDataCollector' object has no attribute '_generate_pagination_url'
+Traceback (most recent call last):
+  File "C:\Users\MADIHA\Desktop\python automation\src\data_collection\coffee_market.py", line 2108, in collect_data
+    extraction_methods[site_name](max_pages=5)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\MADIHA\Desktop\python automation\src\data_collection\coffee_market.py", line 1044, in extract_metro_data
+    current_url = base_url if page == 1 else self._generate_pagination_url(base_url, page, 'metro')
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'CoffeeMarketDataCollector' object has no attribute '_generate_pagination_url'
+2025-05-12 14:52:33,343 - src.data_collection.coffee_market - INFO - Processing site: alibaba
+2025-05-12 14:52:33,344 - src.data_collection.coffee_market - INFO - Extracting coffee data from Alibaba Pakistan
+2025-05-12 14:52:33,345 - src.data_collection.coffee_market - INFO - Processing Alibaba page 1 with URL: https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&
+2025-05-12 14:52:34,068 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&
+2025-05-12 14:52:34,217 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 14:52:34,441 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 1
+2025-05-12 14:52:34,442 - src.data_collection.coffee_market - ERROR - Error extracting data from alibaba: 'CoffeeMarketDataCollector' object has no attribute '_generate_pagination_url'
+Traceback (most recent call last):
+  File "C:\Users\MADIHA\Desktop\python automation\src\data_collection\coffee_market.py", line 2110, in collect_data
+    extraction_methods[site_name](max_pages=5)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\MADIHA\Desktop\python automation\src\data_collection\coffee_market.py", line 1151, in extract_alibaba_data
+    current_url = base_url if page == 1 else self._generate_pagination_url(base_url, page, 'alibaba')
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'CoffeeMarketDataCollector' object has no attribute '_generate_pagination_url'
+2025-05-12 14:52:34,448 - src.data_collection.coffee_market - INFO - Processing site: foodpanda
+2025-05-12 14:52:34,449 - src.data_collection.coffee_market - INFO - Extracting coffee data from Foodpanda
+2025-05-12 14:52:34,452 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 1 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 14:52:34,528 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 14:52:34,592 - src.data_collection.coffee_market - INFO - Found 25 products with selector: ul.product-grid > li
+2025-05-12 14:52:34,593 - src.data_collection.coffee_market - INFO - Processing 25 product cards from Foodpanda page 1
+2025-05-12 14:52:34,605 - src.data_collection.coffee_market - INFO - Extracted 22 products from Foodpanda page 1
+2025-05-12 14:52:34,606 - src.data_collection.coffee_market - ERROR - Error extracting data from foodpanda: 'CoffeeMarketDataCollector' object has no attribute '_generate_pagination_url'
+Traceback (most recent call last):
+  File "C:\Users\MADIHA\Desktop\python automation\src\data_collection\coffee_market.py", line 2112, in collect_data
+    extraction_methods[site_name](max_pages=5)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\MADIHA\Desktop\python automation\src\data_collection\coffee_market.py", line 1603, in extract_foodpanda_data
+    current_url = base_url if page == 1 else self._generate_pagination_url(base_url, page, 'foodpanda')
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'CoffeeMarketDataCollector' object has no attribute '_generate_pagination_url'
+2025-05-12 14:52:34,623 - src.data_collection.coffee_market - INFO - Collected data for 381 coffee products from 1 sites
+2025-05-12 14:52:34,624 - src.data_collection.coffee_market - INFO - Successful sites: alfatah
+2025-05-12 14:52:34,625 - src.data_collection.coffee_market - INFO - Failed sites: daraz, naheed, metro, alibaba, foodpanda
+2025-05-12 14:52:36,251 - src.data_collection.coffee_market - INFO - Saved consolidated coffee market data to Excel file: data/processed\coffee_market_all_categories_20250512_145234.xlsx
+2025-05-12 14:52:36,658 - src.data_collection.coffee_market - INFO - Saved coffee market data to 5 files
+2025-05-12 14:52:36,659 - __main__ - INFO - Data collection completed successfully
+2025-05-12 14:52:36,660 - __main__ - INFO - Collected data for 381 products from 9 brands
+2025-05-12 14:52:36,660 - __main__ - INFO - Coffee types identified: instant, coffee mix, beans, capsule/pod, ground
+2025-05-12 14:52:36,661 - __main__ - INFO - Data saved to the following files:
+2025-05-12 14:52:36,661 - __main__ - INFO - - raw_json: data/raw\coffee_market_20250512_145234.json
+2025-05-12 14:52:36,662 - __main__ - INFO - - processed_json: data/raw\coffee_market_processed_20250512_145234.json
+2025-05-12 14:52:36,662 - __main__ - INFO - - csv_files (products): data/processed\coffee_products_20250512_145234.csv
+2025-05-12 14:52:36,663 - __main__ - INFO - - csv_files (brands): data/processed\coffee_brands_20250512_145234.csv
+2025-05-12 14:52:36,664 - __main__ - INFO - - csv_files (types): data/processed\coffee_types_20250512_145234.csv
+2025-05-12 14:52:36,664 - __main__ - INFO - - csv_files (packaging): data/processed\coffee_packaging_20250512_145234.csv
+2025-05-12 14:52:36,665 - __main__ - INFO - - csv_files (consolidated): data/processed\coffee_market_all_categories_20250512_145234.xlsx
+2025-05-12 14:52:36,667 - __main__ - INFO - Collection finished at 2025-05-12 14:52:36
+2025-05-12 14:52:36,669 - __main__ - INFO - Total duration: 0:02:16.564606
+2025-05-12 15:26:41,468 - __main__ - INFO - Starting coffee market data collection
+2025-05-12 15:26:41,468 - __main__ - INFO - Collection started at 2025-05-12 15:26:41
+2025-05-12 15:26:41,471 - src.data_collection.coffee_market - INFO - Starting coffee market data collection
+2025-05-12 15:26:41,471 - src.data_collection.coffee_market - INFO - Processing site: daraz
+2025-05-12 15:26:41,472 - src.data_collection.coffee_market - INFO - Extracting coffee data from Daraz with improved price extraction and pagination
+2025-05-12 15:26:41,472 - src.data_collection.coffee_market - INFO - Processing Daraz page 1/5 with URL: https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 15:26:42,253 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 15:26:42,567 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 1
+2025-05-12 15:26:42,697 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 1
+2025-05-12 15:26:45,119 - src.data_collection.coffee_market - INFO - Processing Daraz page 2/5 with URL: https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 15:26:45,931 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 15:26:45,959 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 2
+2025-05-12 15:26:46,088 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 2
+2025-05-12 15:26:48,171 - src.data_collection.coffee_market - INFO - Processing Daraz page 3/5 with URL: https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 15:26:48,963 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 15:26:49,000 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 3
+2025-05-12 15:26:49,121 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 3
+2025-05-12 15:26:51,908 - src.data_collection.coffee_market - INFO - Processing Daraz page 4/5 with URL: https://www.daraz.pk/catalog/?q=coffee&page=4
+2025-05-12 15:26:52,327 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=4
+2025-05-12 15:26:52,360 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 4
+2025-05-12 15:26:52,485 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 4
+2025-05-12 15:26:54,642 - src.data_collection.coffee_market - INFO - Processing Daraz page 5/5 with URL: https://www.daraz.pk/catalog/?q=coffee&page=5
+2025-05-12 15:26:55,139 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=5
+2025-05-12 15:26:55,176 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 5
+2025-05-12 15:26:55,358 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 5
+2025-05-12 15:26:58,220 - src.data_collection.coffee_market - INFO - Total extracted 200 products from Daraz across 5 pages
+2025-05-12 15:26:58,221 - src.data_collection.coffee_market - INFO - Extracted 200 products from daraz in 16.75 seconds
+2025-05-12 15:26:58,222 - src.data_collection.coffee_market - INFO - Processing site: alfatah
+2025-05-12 15:26:58,223 - src.data_collection.coffee_market - INFO - Extracting coffee data from Alfatah with infinite scrolling
+2025-05-12 15:27:18,803 - src.data_collection.coffee_market - INFO - Performing scroll iteration 1/5 for Alfatah
+2025-05-12 15:27:30,038 - src.data_collection.coffee_market - INFO - Found 227 products using primary selector on scroll 1
+2025-05-12 15:27:30,123 - src.data_collection.coffee_market - INFO - Processing 227 product cards from Alfatah scroll 1
+2025-05-12 15:27:31,144 - src.data_collection.coffee_market - INFO - Found 203 products, 203 new products in scroll 1
+2025-05-12 15:27:31,177 - src.data_collection.coffee_market - INFO - Performing scroll iteration 2/5 for Alfatah
+2025-05-12 15:27:41,438 - src.data_collection.coffee_market - INFO - Found 487 products using primary selector on scroll 2
+2025-05-12 15:27:41,439 - src.data_collection.coffee_market - INFO - Processing 487 product cards from Alfatah scroll 2
+2025-05-12 15:27:41,659 - src.data_collection.coffee_market - INFO - Found 80 products, 80 new products in scroll 2
+2025-05-12 15:27:41,660 - src.data_collection.coffee_market - INFO - Performing scroll iteration 3/5 for Alfatah
+2025-05-12 15:27:44,741 - src.data_collection.coffee_market - INFO - Reached the end of the page, no more products to load
+2025-05-12 15:27:47,401 - src.data_collection.coffee_market - INFO - Total extracted 283 unique products from Alfatah using infinite scroll
+2025-05-12 15:27:47,423 - src.data_collection.coffee_market - INFO - Extracted 283 products from alfatah in 49.20 seconds
+2025-05-12 15:27:47,424 - src.data_collection.coffee_market - INFO - Processing site: naheed
+2025-05-12 15:27:47,425 - src.data_collection.coffee_market - INFO - Extracting coffee data from Naheed
+2025-05-12 15:27:47,426 - src.data_collection.coffee_market - INFO - Processing Naheed page 1 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee
+2025-05-12 15:27:47,808 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee
+2025-05-12 15:27:47,944 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 1 with primary selector
+2025-05-12 15:27:47,972 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 1 using selector: li.item.product.product-item
+2025-05-12 15:27:47,972 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 15:27:48,013 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 15:27:48,014 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 1
+2025-05-12 15:27:48,056 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 1
+2025-05-12 15:27:48,057 - src.data_collection.coffee_market - INFO - Processing Naheed page 2 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=2
+2025-05-12 15:27:48,534 - src.data_collection.coffee_market - INFO - Cache expired for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=2
+2025-05-12 15:27:48,535 - src.data_collection.coffee_market - INFO - Fetching content from https://www.naheed.pk/catalogsearch/result/?q=coffee&p=2 (using Selenium)
+2025-05-12 15:28:04,756 - src.data_collection.coffee_market - INFO - Cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=2
+2025-05-12 15:28:07,912 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 2 with primary selector
+2025-05-12 15:28:07,961 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 2 using selector: li.item.product.product-item
+2025-05-12 15:28:07,962 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 15:28:08,010 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 15:28:08,010 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 2
+2025-05-12 15:28:08,056 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 2
+2025-05-12 15:28:08,056 - src.data_collection.coffee_market - INFO - Processing Naheed page 3 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=3
+2025-05-12 15:28:08,466 - src.data_collection.coffee_market - INFO - Cache expired for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=3
+2025-05-12 15:28:08,469 - src.data_collection.coffee_market - INFO - Fetching content from https://www.naheed.pk/catalogsearch/result/?q=coffee&p=3 (using Selenium)
+2025-05-12 15:28:23,563 - src.data_collection.coffee_market - INFO - Cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=3
+2025-05-12 15:28:31,813 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 3 with primary selector
+2025-05-12 15:28:31,879 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 3 using selector: li.item.product.product-item
+2025-05-12 15:28:31,895 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 15:28:31,971 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 15:28:31,974 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 3
+2025-05-12 15:28:32,072 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 3
+2025-05-12 15:28:32,081 - src.data_collection.coffee_market - INFO - Processing Naheed page 4 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=4
+2025-05-12 15:28:32,156 - __main__ - INFO - Starting coffee market data collection
+2025-05-12 15:28:32,157 - __main__ - INFO - Collection started at 2025-05-12 15:28:32
+2025-05-12 15:28:32,161 - src.data_collection.coffee_market - INFO - Starting coffee market data collection
+2025-05-12 15:28:32,162 - src.data_collection.coffee_market - INFO - Processing site: daraz
+2025-05-12 15:28:32,164 - src.data_collection.coffee_market - INFO - Extracting coffee data from Daraz with improved price extraction and pagination
+2025-05-12 15:28:32,165 - src.data_collection.coffee_market - INFO - Processing Daraz page 1/5 with URL: https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 15:28:32,638 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 15:28:32,667 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=4
+2025-05-12 15:28:32,667 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 4 with primary selector
+2025-05-12 15:28:32,729 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 4 using selector: li.item.product.product-item
+2025-05-12 15:28:32,730 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 15:28:32,782 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 15:28:32,783 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 4
+2025-05-12 15:28:32,846 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 4
+2025-05-12 15:28:32,847 - src.data_collection.coffee_market - INFO - Processing Naheed page 5 with URL: https://www.naheed.pk/catalogsearch/result/?q=coffee&p=5
+2025-05-12 15:28:32,908 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 1
+2025-05-12 15:28:33,137 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 1
+2025-05-12 15:28:33,360 - src.data_collection.coffee_market - INFO - Using cached content for https://www.naheed.pk/catalogsearch/result/?q=coffee&p=5
+2025-05-12 15:28:33,360 - src.data_collection.coffee_market - INFO - Trying to find Naheed products on page 5 with primary selector
+2025-05-12 15:28:33,410 - src.data_collection.coffee_market - WARNING - No product cards found on Naheed page 5 using selector: li.item.product.product-item
+2025-05-12 15:28:33,410 - src.data_collection.coffee_market - INFO - Trying alternative product selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 15:28:33,449 - src.data_collection.coffee_market - INFO - Found 36 products using alternative selector: .category-products.products.wrapper.grid.products-grid > div > div > ol > li
+2025-05-12 15:28:33,450 - src.data_collection.coffee_market - INFO - Processing 36 product cards from Naheed page 5
+2025-05-12 15:28:33,489 - src.data_collection.coffee_market - INFO - Extracted 36 products from Naheed page 5
+2025-05-12 15:28:33,490 - src.data_collection.coffee_market - INFO - Total extracted 180 products from Naheed across 5 pages
+2025-05-12 15:28:33,491 - src.data_collection.coffee_market - INFO - Extracted 180 products from naheed in 46.07 seconds
+2025-05-12 15:28:33,491 - src.data_collection.coffee_market - INFO - Processing site: metro
+2025-05-12 15:28:33,493 - src.data_collection.coffee_market - INFO - Extracting coffee data from Metro Online
+2025-05-12 15:28:33,494 - src.data_collection.coffee_market - INFO - Processing Metro page 1 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true
+2025-05-12 15:28:33,662 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true
+2025-05-12 15:28:33,770 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 1 using selector: .product-item
+2025-05-12 15:28:33,794 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 1 too
+2025-05-12 15:28:33,794 - src.data_collection.coffee_market - INFO - Processing Metro page 2 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=2
+2025-05-12 15:28:33,975 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=2
+2025-05-12 15:28:34,014 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 2 using selector: .product-item
+2025-05-12 15:28:34,024 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 2 too
+2025-05-12 15:28:34,024 - src.data_collection.coffee_market - INFO - Processing Metro page 3 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=3
+2025-05-12 15:28:34,183 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=3
+2025-05-12 15:28:34,210 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 3 using selector: .product-item
+2025-05-12 15:28:34,225 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 3 too
+2025-05-12 15:28:34,226 - src.data_collection.coffee_market - INFO - Processing Metro page 4 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=4
+2025-05-12 15:28:34,384 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=4
+2025-05-12 15:28:34,413 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 4 using selector: .product-item
+2025-05-12 15:28:34,426 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 4 too
+2025-05-12 15:28:34,427 - src.data_collection.coffee_market - INFO - Processing Metro page 5 with URL: https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=5
+2025-05-12 15:28:34,580 - src.data_collection.coffee_market - INFO - Using cached content for https://www.metro-online.pk/search/coffee?searchText=coffee&url=&isSearched=true&page=5
+2025-05-12 15:28:34,632 - src.data_collection.coffee_market - WARNING - No product cards found on Metro page 5 using selector: .product-item
+2025-05-12 15:28:34,644 - src.data_collection.coffee_market - WARNING - Failed with alternative selector for Metro page 5 too
+2025-05-12 15:28:34,644 - src.data_collection.coffee_market - INFO - Total extracted 0 products from Metro across 5 pages
+2025-05-12 15:28:34,644 - src.data_collection.coffee_market - INFO - Extracted 0 products from metro in 1.15 seconds
+2025-05-12 15:28:34,647 - src.data_collection.coffee_market - WARNING - No products extracted from metro
+2025-05-12 15:28:34,648 - src.data_collection.coffee_market - INFO - Processing site: alibaba
+2025-05-12 15:28:34,649 - src.data_collection.coffee_market - INFO - Extracting coffee data from Alibaba Pakistan
+2025-05-12 15:28:34,649 - src.data_collection.coffee_market - INFO - Processing Alibaba page 1 with URL: https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&
+2025-05-12 15:28:35,282 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&
+2025-05-12 15:28:35,407 - src.data_collection.coffee_market - INFO - Processing Daraz page 2/5 with URL: https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 15:28:35,484 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 15:28:35,828 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 1
+2025-05-12 15:28:35,829 - src.data_collection.coffee_market - INFO - Processing Alibaba page 2 with URL: https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/2
+2025-05-12 15:28:35,844 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/2
+2025-05-12 15:28:35,848 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 15:28:35,860 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 2
+2025-05-12 15:28:35,860 - src.data_collection.coffee_market - INFO - Processing Alibaba page 3 with URL: https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/3
+2025-05-12 15:28:35,885 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/3
+2025-05-12 15:28:35,893 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 15:28:35,904 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 3
+2025-05-12 15:28:35,911 - src.data_collection.coffee_market - INFO - Processing Alibaba page 4 with URL: https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/4
+2025-05-12 15:28:35,929 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/4
+2025-05-12 15:28:35,932 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 15:28:35,940 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 4
+2025-05-12 15:28:35,943 - src.data_collection.coffee_market - INFO - Processing Alibaba page 5 with URL: https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/5
+2025-05-12 15:28:35,966 - src.data_collection.coffee_market - INFO - Using cached content for https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.leftFilter.d_filter.1af613a0Iv9xKa&fsb=y&IndexArea=product_en&keywords=coffee&knowledgeGraphId=761707545378-751848463181&originKeywords=coffee&tab=all&/page/5
+2025-05-12 15:28:35,970 - src.data_collection.coffee_market - WARNING - No product cards found with main selector: .J-offer-wrapper
+2025-05-12 15:28:35,980 - src.data_collection.coffee_market - WARNING - Failed to find products on Alibaba page 5
+2025-05-12 15:28:35,980 - src.data_collection.coffee_market - INFO - Total extracted 0 products from Alibaba across 5 pages
+2025-05-12 15:28:35,981 - src.data_collection.coffee_market - INFO - Extracted 0 products from alibaba in 1.33 seconds
+2025-05-12 15:28:35,982 - src.data_collection.coffee_market - WARNING - No products extracted from alibaba
+2025-05-12 15:28:35,984 - src.data_collection.coffee_market - INFO - Processing site: foodpanda
+2025-05-12 15:28:35,985 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 15:28:36,009 - src.data_collection.coffee_market - INFO - Extracting coffee data from Foodpanda
+2025-05-12 15:28:36,010 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 1 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 15:28:36,077 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 2
+2025-05-12 15:28:36,105 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee
+2025-05-12 15:28:36,172 - src.data_collection.coffee_market - INFO - Found 25 products with selector: ul.product-grid > li
+2025-05-12 15:28:36,173 - src.data_collection.coffee_market - INFO - Processing 25 product cards from Foodpanda page 1
+2025-05-12 15:28:36,200 - src.data_collection.coffee_market - INFO - Extracted 22 products from Foodpanda page 1
+2025-05-12 15:28:36,200 - src.data_collection.coffee_market - INFO - Processing Foodpanda page 2 with URL: https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2
+2025-05-12 15:28:36,208 - src.data_collection.coffee_market - INFO - Using cached content for https://www.foodpanda.pk/darkstore/sx92/pandamart-gulberg-iii/search?q=coffee&page=2
+2025-05-12 15:28:36,218 - src.data_collection.coffee_market - WARNING - No product cards found on Foodpanda page 2, stopping pagination
+2025-05-12 15:28:36,221 - src.data_collection.coffee_market - INFO - Total extracted 22 products from Foodpanda across 2 pages
+2025-05-12 15:28:36,227 - src.data_collection.coffee_market - INFO - Extracted 22 products from foodpanda in 0.22 seconds
+2025-05-12 15:28:36,228 - src.data_collection.coffee_market - INFO - Collected data for 685 coffee products from 4 sites
+2025-05-12 15:28:36,228 - src.data_collection.coffee_market - INFO - Successful sites: daraz, alfatah, naheed, foodpanda
+2025-05-12 15:28:36,229 - src.data_collection.coffee_market - INFO - Failed sites: metro, alibaba
+2025-05-12 15:28:36,260 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 2
+2025-05-12 15:28:37,789 - src.data_collection.coffee_market - INFO - Saved consolidated coffee market data to Excel file: data/processed\coffee_market_all_categories_20250512_152836.xlsx
+2025-05-12 15:28:38,112 - src.data_collection.coffee_market - INFO - Saved coffee market data to 5 files
+2025-05-12 15:28:38,113 - __main__ - INFO - Data collection completed successfully
+2025-05-12 15:28:38,113 - __main__ - INFO - Collected data for 685 products from 10 brands
+2025-05-12 15:28:38,113 - __main__ - INFO - Coffee types identified: instant, beans, capsule/pod, ground, coffee mix
+2025-05-12 15:28:38,114 - __main__ - INFO - Data saved to the following files:
+2025-05-12 15:28:38,115 - __main__ - INFO - - raw_json: data/raw\coffee_market_20250512_152836.json
+2025-05-12 15:28:38,115 - __main__ - INFO - - processed_json: data/raw\coffee_market_processed_20250512_152836.json
+2025-05-12 15:28:38,115 - __main__ - INFO - - csv_files (products): data/processed\coffee_products_20250512_152836.csv
+2025-05-12 15:28:38,116 - __main__ - INFO - - csv_files (brands): data/processed\coffee_brands_20250512_152836.csv
+2025-05-12 15:28:38,117 - __main__ - INFO - - csv_files (types): data/processed\coffee_types_20250512_152836.csv
+2025-05-12 15:28:38,117 - __main__ - INFO - - csv_files (packaging): data/processed\coffee_packaging_20250512_152836.csv
+2025-05-12 15:28:38,119 - __main__ - INFO - - csv_files (consolidated): data/processed\coffee_market_all_categories_20250512_152836.xlsx
+2025-05-12 15:28:38,119 - __main__ - INFO - Collection finished at 2025-05-12 15:28:38
+2025-05-12 15:28:38,120 - __main__ - INFO - Total duration: 0:01:56.650818
+2025-05-12 15:28:38,951 - src.data_collection.coffee_market - INFO - Processing Daraz page 3/5 with URL: https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 15:28:39,300 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 15:28:39,329 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 3
+2025-05-12 15:28:39,469 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 3
+2025-05-12 15:28:41,632 - src.data_collection.coffee_market - INFO - Processing Daraz page 4/5 with URL: https://www.daraz.pk/catalog/?q=coffee&page=4
+2025-05-12 15:28:42,095 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=4
+2025-05-12 15:28:42,129 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 4
+2025-05-12 15:28:42,263 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 4
+2025-05-12 15:28:45,774 - src.data_collection.coffee_market - INFO - Processing Daraz page 5/5 with URL: https://www.daraz.pk/catalog/?q=coffee&page=5
+2025-05-12 15:28:46,245 - src.data_collection.coffee_market - INFO - Using cached content for https://www.daraz.pk/catalog/?q=coffee&page=5
+2025-05-12 15:28:46,278 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 5
+2025-05-12 15:28:46,384 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 5
+2025-05-12 15:28:49,824 - src.data_collection.coffee_market - INFO - Total extracted 200 products from Daraz across 5 pages
+2025-05-12 15:28:49,826 - src.data_collection.coffee_market - INFO - Extracted 200 products from daraz in 17.66 seconds
+2025-05-12 15:28:49,827 - src.data_collection.coffee_market - INFO - Processing site: alfatah
+2025-05-12 15:28:49,828 - src.data_collection.coffee_market - INFO - Extracting coffee data from Alfatah with infinite scrolling
+2025-05-12 15:29:01,989 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EEDCBA3610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/38d615e9cd66a352cfc9a813e108ba57
+2025-05-12 15:29:06,053 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EEDCBA3250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/38d615e9cd66a352cfc9a813e108ba57
+2025-05-12 15:29:10,153 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EEDCBB2190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/38d615e9cd66a352cfc9a813e108ba57

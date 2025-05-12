@@ -1,0 +1,42 @@
+2025-05-12 15:35:00,518 - __main__ - INFO - Starting tests for coffee market data collector fixes...
+2025-05-12 15:35:06,101 - __main__ - INFO - Testing Daraz price extraction and pagination...
+2025-05-12 15:35:06,103 - src.data_collection.coffee_market - INFO - Extracting coffee data from Daraz with improved price extraction and pagination
+2025-05-12 15:35:06,103 - src.data_collection.coffee_market - INFO - Processing Daraz page 1/3 with URL: https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 15:35:06,675 - src.data_collection.coffee_market - INFO - Cache expired for https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 15:35:06,676 - src.data_collection.coffee_market - INFO - Fetching content from https://www.daraz.pk/catalog/?q=coffee (using Selenium)
+2025-05-12 15:35:24,163 - src.data_collection.coffee_market - INFO - Cached content for https://www.daraz.pk/catalog/?q=coffee
+2025-05-12 15:35:26,970 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 1
+2025-05-12 15:35:27,229 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 1
+2025-05-12 15:35:31,044 - src.data_collection.coffee_market - INFO - Processing Daraz page 2/3 with URL: https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 15:35:31,542 - src.data_collection.coffee_market - INFO - Cache expired for https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 15:35:31,543 - src.data_collection.coffee_market - INFO - Fetching content from https://www.daraz.pk/catalog/?q=coffee&page=2 (using Selenium)
+2025-05-12 15:35:51,294 - src.data_collection.coffee_market - INFO - Cached content for https://www.daraz.pk/catalog/?q=coffee&page=2
+2025-05-12 15:35:55,030 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 2
+2025-05-12 15:35:55,192 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 2
+2025-05-12 15:35:58,029 - src.data_collection.coffee_market - INFO - Processing Daraz page 3/3 with URL: https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 15:35:58,491 - src.data_collection.coffee_market - INFO - Cache expired for https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 15:35:58,492 - src.data_collection.coffee_market - INFO - Fetching content from https://www.daraz.pk/catalog/?q=coffee&page=3 (using Selenium)
+2025-05-12 15:36:18,743 - src.data_collection.coffee_market - INFO - Cached content for https://www.daraz.pk/catalog/?q=coffee&page=3
+2025-05-12 15:36:21,240 - src.data_collection.coffee_market - INFO - Processing 40 product cards from Daraz page 3
+2025-05-12 15:36:21,399 - src.data_collection.coffee_market - INFO - Extracted 40 products from Daraz page 3
+2025-05-12 15:36:24,012 - src.data_collection.coffee_market - INFO - Total extracted 120 products from Daraz across 3 pages
+2025-05-12 15:36:24,013 - __main__ - INFO - Extracted 120 products from Daraz
+2025-05-12 15:36:24,014 - __main__ - INFO - Products with valid prices: 120/120
+2025-05-12 15:36:24,014 - __main__ - INFO - Price extraction success rate: 100.00%
+2025-05-12 15:36:24,015 - __main__ - INFO - Testing Alfatah infinite scrolling...
+2025-05-12 15:36:24,016 - src.data_collection.coffee_market - INFO - Extracting coffee data from Alfatah with infinite scrolling
+2025-05-12 15:36:51,680 - src.data_collection.coffee_market - INFO - Performing scroll iteration 1/2 for Alfatah
+2025-05-12 15:37:12,817 - src.data_collection.coffee_market - INFO - Found 227 products using primary selector on scroll 1
+2025-05-12 15:37:12,819 - src.data_collection.coffee_market - INFO - Processing 227 product cards from Alfatah scroll 1
+2025-05-12 15:37:13,161 - src.data_collection.coffee_market - INFO - Found 203 products, 203 new products in scroll 1
+2025-05-12 15:37:13,162 - src.data_collection.coffee_market - INFO - Performing scroll iteration 2/2 for Alfatah
+2025-05-12 15:37:26,538 - src.data_collection.coffee_market - INFO - Found 487 products using primary selector on scroll 2
+2025-05-12 15:37:26,538 - src.data_collection.coffee_market - INFO - Processing 487 product cards from Alfatah scroll 2
+2025-05-12 15:37:26,827 - src.data_collection.coffee_market - INFO - Found 80 products, 80 new products in scroll 2
+2025-05-12 15:37:29,842 - src.data_collection.coffee_market - INFO - Total extracted 283 unique products from Alfatah using infinite scroll
+2025-05-12 15:37:29,846 - __main__ - INFO - Extracted 283 products from Alfatah with infinite scrolling
+2025-05-12 15:37:29,847 - __main__ - INFO - ===== TEST RESULTS =====
+2025-05-12 15:37:29,849 - __main__ - INFO - daraz_price_extraction: PASSED
+2025-05-12 15:37:29,850 - __main__ - INFO - alfatah_infinite_scroll: PASSED
+2025-05-12 15:37:29,851 - __main__ - INFO - ===== SUMMARY =====
+2025-05-12 15:37:29,853 - __main__ - INFO - All tests passed: True
